@@ -77,8 +77,11 @@ Cassandra as options : Any, All, One, Quorum (majority per cluster/DC)
 Want W+R > N+1 to guarantee quorum 
 
 ## Consistency Spectrum
+
+```
 Eventual -------------------- Strong
 Fast     -------------------- Consistent
+```
 
 In order (weak to strong consistency)
 - Eventual
