@@ -1,16 +1,16 @@
 ## Gossip
 
-Gooal : Reliable multicast
-Nodes may crash, packets may be lost, tons of nodes
-all-to-all : slow O(N)
-tree : difficult to maintain, potantially O(n)
+- Gooal : Reliable multicast
+- Nodes may crash, packets may be lost, tons of nodes
+- all-to-all : slow O(N)
+- tree : difficult to maintain, potantially O(n)
 
-Can send gossip over UDP (loss ok)
-Each node sends to b random nodes every few seconds (infection)
+- Can send gossip over UDP (loss ok)
+- Each node sends to b random nodes every few seconds (infection)
 
 ### Push gossip 
-Randomly push to n nodes
-If many messages, gossip random subset or use priority mechanism
+- Randomly push to n nodes
+- If many messages, gossip random subset or use priority mechanism
 
 ### Pull gossip
 Randomly pull from n nodes

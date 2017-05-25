@@ -7,6 +7,7 @@ overall NNTF = machine MMTF / number of machines
 Once a node fail it can only restart with a new id
 
 Each process has a list of all(or most) other non faulty processes (maybe via gossip, DHT , etc...)
+
 list maybe strongly consistent or mostly or partial but we focus on mostly consistent here.
 
 ### Failure detection
@@ -50,14 +51,17 @@ All-to-all : high load, complete, but a bad node could mark all others as failed
 - if pi gets no ack frem pj before timeout -> send indirrect pings to pk via k random processes
 - pi expects indirect ack before end of period
 - if still no ack -> mark pj
- 
+
 pi state machine for each pj : active -> suspected (may ge back alive) -> failed (disseminate)  use incarnation number for state stability
 
 trick:
+
 whenever you pick a membership element, pick the next membership element in your list, you traverse the membership list onc e per around. 
+
 When you reach the end of the membership list, you reorder and permute the membership list that you have.
 -> 2N-1 periods at most local detection
 
 ### Dissemination
 Infection style -> report membership on al the messages (ping and ack, even indirect) - gossip style
+
 may send only "recent" messages and garbage collect after many time periods -> consistercy level

@@ -57,13 +57,13 @@ Some peers are supernodes (based on reputation) - hold metadata
 Peer can search neighbor supernodes (faster)
 
 ## BitTorrent
-Tracker: Maintain seeds/leechers list (list, heartbeat)
-seeds have full files
-leechers have partial files
+- Tracker: Maintain seeds/leechers list (list, heartbeat)
+- seeds have full files
+- leechers have partial files
 
-Download rarest blocks first (to duplicate them)
-Favor giving to peers that also gave to us (tit for tats)
-Choking : prefer peers with less concurrent uploads (refresh overy few seconds)
+- Download rarest blocks first (to duplicate them)
+- Favor giving to peers that also gave to us (tit for tats)
+- Choking : prefer peers with less concurrent uploads (refresh overy few seconds)
 
 ## Chord
 Has some techniques reused in key/value stores (DHT)
