@@ -19,7 +19,7 @@
  * Macros
  */
 #define TREMOVE 20
-#define TFAIL 5
+#define TFAIL 10
 
 /*
  * Note: You can change/add any functions in MP1Node.{h,cpp}
@@ -31,6 +31,7 @@
 enum MsgTypes{
     JOINREQ,
     JOINREP,
+    GOSSIP,
     DUMMYLASTMSGTYPE
 };
 
@@ -50,6 +51,7 @@ typedef struct MessageHdr {
  */
 class MP1Node {
 private:
+        long myId;
 	EmulNet *emulNet;
 	Log *log;
 	Params *par;
@@ -70,12 +72,20 @@ public:
 	void nodeLoop();
 	void checkMessages();
 	bool recvCallBack(void *env, char *data, int size);
+        void recvJoinReq(char *payload);
+        void recvJoinRep(char *payload);
+        void recvGossip(char *payload);
+        long now();
+        bool isTfailed(vector<MemberListEntry>::iterator entry);
+        void dumpMem(char *pointer, int size);
+        void sendMembershipMsg(MsgTypes msgType, Address *from, Address *to);
 	void nodeLoopOps();
 	int isNullAddress(Address *addr);
 	Address getJoinAddress();
 	void initMemberListTable(Member *memberNode);
 	void printAddress(Address *addr);
 	virtual ~MP1Node();
+        Address makeAddress(int id, short port);
 };
 
 #endif /* _MP1NODE_H_ */
