@@ -1,5 +1,4 @@
 ## Concepts - Part 1
-
 Quizz1 : 100%
 Quizz2 : 100%
 Quizz3 : 100%
