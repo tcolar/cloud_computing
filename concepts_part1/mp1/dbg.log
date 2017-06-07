@@ -1,0 +1,2327 @@
+131
+
+ [0] APP
+ 2.0.0.0:0 [0] APP
+ 3.0.0.0:0 [0] APP
+ 4.0.0.0:0 [0] APP
+ 5.0.0.0:0 [0] APP
+ 6.0.0.0:0 [0] APP
+ 7.0.0.0:0 [0] APP
+ 8.0.0.0:0 [0] APP
+ 9.0.0.0:0 [0] APP
+ 10.0.0.0:0 [0] APP
+ 4.0.0.0:0 [0] Node 4.0.0.0:0 joined at time 0
+ 4.0.0.0:0 [0] Node 1.0.0.0:0 joined at time 0
+ 4.0.0.0:0 [0] Trying to join...
+ 3.0.0.0:0 [0] Node 3.0.0.0:0 joined at time 0
+ 3.0.0.0:0 [0] Node 1.0.0.0:0 joined at time 0
+ 3.0.0.0:0 [0] Trying to join...
+ 2.0.0.0:0 [0] Node 2.0.0.0:0 joined at time 0
+ 2.0.0.0:0 [0] Node 1.0.0.0:0 joined at time 0
+ 2.0.0.0:0 [0] Trying to join...
+ 1.0.0.0:0 [0] Node 1.0.0.0:0 joined at time 0
+ 1.0.0.0:0 [0] Starting up group...
+ 8.0.0.0:0 [1] Node 8.0.0.0:0 joined at time 1
+ 8.0.0.0:0 [1] Node 1.0.0.0:0 joined at time 1
+ 8.0.0.0:0 [1] Trying to join...
+ 7.0.0.0:0 [1] Node 7.0.0.0:0 joined at time 1
+ 7.0.0.0:0 [1] Node 1.0.0.0:0 joined at time 1
+ 7.0.0.0:0 [1] Trying to join...
+ 6.0.0.0:0 [1] Node 6.0.0.0:0 joined at time 1
+ 6.0.0.0:0 [1] Node 1.0.0.0:0 joined at time 1
+ 6.0.0.0:0 [1] Trying to join...
+ 5.0.0.0:0 [1] Node 5.0.0.0:0 joined at time 1
+ 5.0.0.0:0 [1] Node 1.0.0.0:0 joined at time 1
+ 5.0.0.0:0 [1] Trying to join...
+ 1.0.0.0:0 [1] Node 2.0.0.0:0 joined at time 1
+ 1.0.0.0:0 [1] Node 3.0.0.0:0 joined at time 1
+ 1.0.0.0:0 [1] Node 4.0.0.0:0 joined at time 1
+ 10.0.0.0:0 [2] Node 10.0.0.0:0 joined at time 2
+ 10.0.0.0:0 [2] Node 1.0.0.0:0 joined at time 2
+ 10.0.0.0:0 [2] Trying to join...
+ 9.0.0.0:0 [2] Node 9.0.0.0:0 joined at time 2
+ 9.0.0.0:0 [2] Node 1.0.0.0:0 joined at time 2
+ 9.0.0.0:0 [2] Trying to join...
+ 4.0.0.0:0 [2] Node 2.0.0.0:0 joined at time 2
+ 4.0.0.0:0 [2] Node 3.0.0.0:0 joined at time 2
+ 3.0.0.0:0 [2] Node 2.0.0.0:0 joined at time 2
+ 3.0.0.0:0 [2] Node 4.0.0.0:0 joined at time 2
+ 2.0.0.0:0 [2] Node 3.0.0.0:0 joined at time 2
+ 2.0.0.0:0 [2] Node 4.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 5.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 6.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 7.0.0.0:0 joined at time 2
+ 1.0.0.0:0 [2] Node 8.0.0.0:0 joined at time 2
+ 8.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 6.0.0.0:0 joined at time 3
+ 8.0.0.0:0 [3] Node 7.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 6.0.0.0:0 joined at time 3
+ 7.0.0.0:0 [3] Node 8.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 6.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 2.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 3.0.0.0:0 joined at time 3
+ 5.0.0.0:0 [3] Node 4.0.0.0:0 joined at time 3
+ 4.0.0.0:0 [3] Node 5.0.0.0:0 joined at time 3
+ 4.0.0.0:0 [3] Node 6.0.0.0:0 joined at time 3
+ 4.0.0.0:0 [3] Node 7.0.0.0:0 joined at time 3
+ 4.0.0.0:0 [3] Node 8.0.0.0:0 joined at time 3
+ 1.0.0.0:0 [3] Node 9.0.0.0:0 joined at time 3
+ 1.0.0.0:0 [3] Node 10.0.0.0:0 joined at time 3
+ 10.0.0.0:0 [4] Node 2.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 3.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 4.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 10.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 2.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 3.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 4.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 6.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 6.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 5.0.0.0:0 [4] Node 10.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 3.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 7.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 5.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 6.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 8.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 9.0.0.0:0 joined at time 4
+ 2.0.0.0:0 [4] Node 10.0.0.0:0 joined at time 4
+ 9.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 7.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 7.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 6.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 4.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 4.0.0.0:0 [5] Node 10.0.0.0:0 joined at time 5
+ 3.0.0.0:0 [5] Node 9.0.0.0:0 joined at time 5
+ 3.0.0.0:0 [5] Node 7.0.0.0:0 joined at time 5
+ 3.0.0.0:0 [5] Node 8.0.0.0:0 joined at time 5
+ 8.0.0.0:0 [6] Node 9.0.0.0:0 joined at time 6
+ 8.0.0.0:0 [6] Node 10.0.0.0:0 joined at time 6
+ 6.0.0.0:0 [6] Node 10.0.0.0:0 joined at time 6
+ 3.0.0.0:0 [6] Node 10.0.0.0:0 joined at time 6
+ 3.0.0.0:0 [58] ? Timed out ping to 6, trying via 10
+ 10.0.0.0:0 [59] > Fwd Indirect Ping 3:0->6:0
+ 4.0.0.0:0 [60] ? Timed out ping to 2, trying via 3
+ 10.0.0.0:0 [61] < Fwd Indirect Pong 6:0->3:0
+ 3.0.0.0:0 [61] > Fwd Indirect Ping 4:0->2:0
+ 9.0.0.0:0 [63] ? Timed out ping to 8, trying via 10
+ 3.0.0.0:0 [63] < Fwd Indirect Pong 2:0->4:0
+ 10.0.0.0:0 [64] > Fwd Indirect Ping 9:0->8:0
+ 10.0.0.0:0 [64] ? Timed out ping to 6, trying via 7
+ 9.0.0.0:0 [64] ? Timed out ping to 5, trying via 3
+ 7.0.0.0:0 [65] > Fwd Indirect Ping 10:0->6:0
+ 3.0.0.0:0 [65] > Fwd Indirect Ping 9:0->5:0
+ 10.0.0.0:0 [66] < Fwd Indirect Pong 8:0->9:0
+ 7.0.0.0:0 [67] < Fwd Indirect Pong 6:0->10:0
+ 4.0.0.0:0 [67] ? Timed out ping to 10, trying via 6
+ 3.0.0.0:0 [67] < Fwd Indirect Pong 5:0->9:0
+ 6.0.0.0:0 [68] > Fwd Indirect Ping 4:0->10:0
+ 6.0.0.0:0 [70] < Fwd Indirect Pong 10:0->4:0
+ 6.0.0.0:0 [73] ? Timed out ping to 1, trying via 10
+ 10.0.0.0:0 [74] > Fwd Indirect Ping 6:0->1:0
+ 10.0.0.0:0 [76] < Fwd Indirect Pong 1:0->6:0
+ 7.0.0.0:0 [76] ? Timed out ping to 10, trying via 3
+ 3.0.0.0:0 [77] > Fwd Indirect Ping 7:0->10:0
+ 7.0.0.0:0 [81] ? Timed out ping to 8, trying via 3
+ 3.0.0.0:0 [82] > Fwd Indirect Ping 7:0->8:0
+ 8.0.0.0:0 [92] ? Timed out ping to 6, trying via 7
+ 7.0.0.0:0 [93] > Fwd Indirect Ping 8:0->6:0
+ 7.0.0.0:0 [95] < Fwd Indirect Pong 6:0->8:0
+ 8.0.0.0:0 [100] Node failed at time=100
+ 3.0.0.0:0 [105] ? Timed out ping to 8, trying via 7
+ 7.0.0.0:0 [106] > Fwd Indirect Ping 3:0->8:0
+ 10.0.0.0:0 [107] ? Timed out ping to 8, trying via 6
+ 5.0.0.0:0 [107] ? Timed out ping to 8, trying via 10
+ 2.0.0.0:0 [107] ? Timed out ping to 10, trying via 7
+ 10.0.0.0:0 [108] > Fwd Indirect Ping 5:0->8:0
+ 7.0.0.0:0 [108] > Fwd Indirect Ping 2:0->10:0
+ 6.0.0.0:0 [108] > Fwd Indirect Ping 10:0->8:0
+ 3.0.0.0:0 [108] ? Timed out ping to 5, trying via 9
+ 9.0.0.0:0 [109] > Fwd Indirect Ping 3:0->5:0
+ 6.0.0.0:0 [109] ? Timed out ping to 8, trying via 1
+ 7.0.0.0:0 [110] < Fwd Indirect Pong 10:0->2:0
+ 4.0.0.0:0 [110] ? Timed out ping to 8, trying via 5
+ 1.0.0.0:0 [110] ? Timed out ping to 8, trying via 2
+ 9.0.0.0:0 [111] < Fwd Indirect Pong 5:0->3:0
+ 5.0.0.0:0 [111] > Fwd Indirect Ping 4:0->8:0
+ 2.0.0.0:0 [111] > Fwd Indirect Ping 1:0->8:0
+ 2.0.0.0:0 [112] ? Timed out ping to 8, trying via 5
+ 5.0.0.0:0 [113] > Fwd Indirect Ping 2:0->8:0
+ 10.0.0.0:0 [116] ? Timed out ping to 5, trying via 7
+ 9.0.0.0:0 [116] ? Timed out ping to 8, trying via 7
+ 2.0.0.0:0 [116] ? Timed out ping to 6, trying via 10
+ 10.0.0.0:0 [117] > Fwd Indirect Ping 2:0->6:0
+ 7.0.0.0:0 [117] > Fwd Indirect Ping 10:0->5:0
+ 10.0.0.0:0 [119] < Fwd Indirect Pong 6:0->2:0
+ 7.0.0.0:0 [119] < Fwd Indirect Pong 5:0->10:0
+ 7.0.0.0:0 [119] ? Timed out ping to 8, trying via 10
+ 10.0.0.0:0 [120] > Fwd Indirect Ping 7:0->8:0
+ 4.0.0.0:0 [123] ? Timed out ping to 10, trying via 3
+ 3.0.0.0:0 [124] > Fwd Indirect Ping 4:0->10:0
+ 5.0.0.0:0 [125] ? Timed out ping to 6, trying via 10
+ 4.0.0.0:0 [125] ? Timed out ping to 9, trying via 1
+ 3.0.0.0:0 [126] < Fwd Indirect Pong 10:0->4:0
+ 3.0.0.0:0 [126] Dropping Node 8 (dead locally).
+ 3.0.0.0:0 [126] Node 8.0.0.0:0 removed at time 126
+ 1.0.0.0:0 [126] > Fwd Indirect Ping 4:0->9:0
+ 6.0.0.0:0 [127] ? Timed out ping to 1, trying via 5
+ 1.0.0.0:0 [127] Dropping 8 (Marked Dead by other node)
+ 1.0.0.0:0 [127] Node 8.0.0.0:0 removed at time 127
+ 10.0.0.0:0 [128] Dropping 8 (Marked Dead by other node)
+ 10.0.0.0:0 [128] Node 8.0.0.0:0 removed at time 128
+ 7.0.0.0:0 [128] Dropping 8 (Marked Dead by other node)
+ 7.0.0.0:0 [128] Node 8.0.0.0:0 removed at time 128
+ 5.0.0.0:0 [128] Dropping 8 (Marked Dead by other node)
+ 5.0.0.0:0 [128] Node 8.0.0.0:0 removed at time 128
+ 5.0.0.0:0 [128] > Fwd Indirect Ping 6:0->1:0
+ 1.0.0.0:0 [128] < Fwd Indirect Pong 9:0->4:0
+ 4.0.0.0:0 [129] Dropping 8 (Marked Dead by other node)
+ 4.0.0.0:0 [129] Node 8.0.0.0:0 removed at time 129
+ 2.0.0.0:0 [129] Dropping 8 (Marked Dead by other node)
+ 2.0.0.0:0 [129] Node 8.0.0.0:0 removed at time 129
+ 9.0.0.0:0 [130] Dropping 8 (Marked Dead by other node)
+ 9.0.0.0:0 [130] Node 8.0.0.0:0 removed at time 130
+ 6.0.0.0:0 [130] Dropping 8 (Marked Dead by other node)
+ 6.0.0.0:0 [130] Node 8.0.0.0:0 removed at time 130
+ 5.0.0.0:0 [130] < Fwd Indirect Pong 1:0->6:0
+ 6.0.0.0:0 [131] ? Timed out ping to 5, trying via 10
+ 10.0.0.0:0 [132] > Fwd Indirect Ping 6:0->5:0
+ 10.0.0.0:0 [134] ? Timed out ping to 4, trying via 3
+ 3.0.0.0:0 [135] > Fwd Indirect Ping 10:0->4:0
+ 5.0.0.0:0 [146] Dropping Node 6 (dead locally).
+ 5.0.0.0:0 [146] Node 6.0.0.0:0 removed at time 146
+ 7.0.0.0:0 [147] ? Timed out ping to 4, trying via 3
+ 1.0.0.0:0 [147] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [147] Node 6.0.0.0:0 removed at time 147
+ 7.0.0.0:0 [148] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [148] Node 6.0.0.0:0 removed at time 148
+ 3.0.0.0:0 [148] > Fwd Indirect Ping 7:0->4:0
+ 1.0.0.0:0 [148] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [148] Node 6.0.0.0:0 removed at time 148
+ 9.0.0.0:0 [149] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [149] Node 6.0.0.0:0 removed at time 149
+ 2.0.0.0:0 [149] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [149] Node 6.0.0.0:0 removed at time 149
+ 2.0.0.0:0 [149] ? Timed out ping to 9, trying via 3
+ 10.0.0.0:0 [150] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [150] Node 6.0.0.0:0 removed at time 150
+ 3.0.0.0:0 [150] < Fwd Indirect Pong 4:0->7:0
+ 3.0.0.0:0 [150] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [150] Node 6.0.0.0:0 removed at time 150
+ 3.0.0.0:0 [150] > Fwd Indirect Ping 2:0->9:0
+ 4.0.0.0:0 [151] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [151] Node 6.0.0.0:0 removed at time 151
+ 3.0.0.0:0 [151] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [151] Node 6.0.0.0:0 removed at time 151
+ 1.0.0.0:0 [151] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [151] Node 6.0.0.0:0 removed at time 151
+ 1.0.0.0:0 [151] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [151] Node 6.0.0.0:0 removed at time 151
+ 6.0.0.0:0 [152] Dropping Node 5 (dead locally).
+ 6.0.0.0:0 [152] Node 5.0.0.0:0 removed at time 152
+ 3.0.0.0:0 [152] < Fwd Indirect Pong 9:0->2:0
+ 1.0.0.0:0 [152] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [152] Node 6.0.0.0:0 removed at time 152
+ 9.0.0.0:0 [153] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [153] Node 5.0.0.0:0 removed at time 153
+ 7.0.0.0:0 [153] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [153] Node 6.0.0.0:0 removed at time 153
+ 7.0.0.0:0 [153] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [153] Node 5.0.0.0:0 removed at time 153
+ 7.0.0.0:0 [153] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [153] Node 6.0.0.0:0 removed at time 153
+ 10.0.0.0:0 [154] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [154] Node 5.0.0.0:0 removed at time 154
+ 10.0.0.0:0 [154] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [154] Node 6.0.0.0:0 removed at time 154
+ 9.0.0.0:0 [154] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [154] Node 6.0.0.0:0 removed at time 154
+ 3.0.0.0:0 [154] Dropping 5 (Marked Dead by other node)
+ 3.0.0.0:0 [154] Node 5.0.0.0:0 removed at time 154
+ 2.0.0.0:0 [154] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [154] Node 5.0.0.0:0 removed at time 154
+ 9.0.0.0:0 [155] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [155] Node 5.0.0.0:0 removed at time 155
+ 7.0.0.0:0 [155] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [155] Node 5.0.0.0:0 removed at time 155
+ 4.0.0.0:0 [155] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [155] Node 5.0.0.0:0 removed at time 155
+ 2.0.0.0:0 [155] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [155] Node 6.0.0.0:0 removed at time 155
+ 1.0.0.0:0 [155] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [155] Node 5.0.0.0:0 removed at time 155
+ 10.0.0.0:0 [156] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [156] Node 5.0.0.0:0 removed at time 156
+ 9.0.0.0:0 [156] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [156] Node 5.0.0.0:0 removed at time 156
+ 7.0.0.0:0 [156] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [156] Node 5.0.0.0:0 removed at time 156
+ 3.0.0.0:0 [156] Dropping 5 (Marked Dead by other node)
+ 3.0.0.0:0 [156] Node 5.0.0.0:0 removed at time 156
+ 9.0.0.0:0 [157] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [157] Node 6.0.0.0:0 removed at time 157
+ 4.0.0.0:0 [157] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [157] Node 5.0.0.0:0 removed at time 157
+ 2.0.0.0:0 [157] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [157] Node 5.0.0.0:0 removed at time 157
+ 1.0.0.0:0 [157] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [157] Node 6.0.0.0:0 removed at time 157
+ 1.0.0.0:0 [157] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [157] Node 6.0.0.0:0 removed at time 157
+ 9.0.0.0:0 [158] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [158] Node 6.0.0.0:0 removed at time 158
+ 7.0.0.0:0 [158] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [158] Node 5.0.0.0:0 removed at time 158
+ 4.0.0.0:0 [158] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [158] Node 5.0.0.0:0 removed at time 158
+ 10.0.0.0:0 [159] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [159] Node 5.0.0.0:0 removed at time 159
+ 7.0.0.0:0 [159] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [159] Node 5.0.0.0:0 removed at time 159
+ 7.0.0.0:0 [159] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [159] Node 6.0.0.0:0 removed at time 159
+ 3.0.0.0:0 [159] Dropping 5 (Marked Dead by other node)
+ 3.0.0.0:0 [159] Node 5.0.0.0:0 removed at time 159
+ 2.0.0.0:0 [159] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [159] Node 6.0.0.0:0 removed at time 159
+ 9.0.0.0:0 [160] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [160] Node 5.0.0.0:0 removed at time 160
+ 7.0.0.0:0 [160] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [160] Node 6.0.0.0:0 removed at time 160
+ 9.0.0.0:0 [161] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [161] Node 6.0.0.0:0 removed at time 161
+ 1.0.0.0:0 [161] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [161] Node 6.0.0.0:0 removed at time 161
+ 9.0.0.0:0 [162] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [162] Node 5.0.0.0:0 removed at time 162
+ 4.0.0.0:0 [162] ? Timed out ping to 2, trying via 1
+ 2.0.0.0:0 [162] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [162] Node 5.0.0.0:0 removed at time 162
+ 1.0.0.0:0 [162] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [162] Node 6.0.0.0:0 removed at time 162
+ 9.0.0.0:0 [163] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [163] Node 5.0.0.0:0 removed at time 163
+ 7.0.0.0:0 [163] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [163] Node 5.0.0.0:0 removed at time 163
+ 7.0.0.0:0 [163] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [163] Node 6.0.0.0:0 removed at time 163
+ 6.0.0.0:0 [163] ? Timed out ping to 10, trying via 7
+ 10.0.0.0:0 [164] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [164] Node 5.0.0.0:0 removed at time 164
+ 7.0.0.0:0 [164] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [164] Node 5.0.0.0:0 removed at time 164
+ 7.0.0.0:0 [164] > Fwd Indirect Ping 6:0->10:0
+ 4.0.0.0:0 [164] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [164] Node 6.0.0.0:0 removed at time 164
+ 2.0.0.0:0 [164] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [164] Node 5.0.0.0:0 removed at time 164
+ 1.0.0.0:0 [164] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [164] Node 6.0.0.0:0 removed at time 164
+ 10.0.0.0:0 [165] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [165] Node 5.0.0.0:0 removed at time 165
+ 9.0.0.0:0 [165] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [165] Node 5.0.0.0:0 removed at time 165
+ 7.0.0.0:0 [165] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [165] Node 6.0.0.0:0 removed at time 165
+ 7.0.0.0:0 [165] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [165] Node 5.0.0.0:0 removed at time 165
+ 10.0.0.0:0 [166] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [166] Node 6.0.0.0:0 removed at time 166
+ 9.0.0.0:0 [166] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [166] Node 5.0.0.0:0 removed at time 166
+ 9.0.0.0:0 [166] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [166] Node 6.0.0.0:0 removed at time 166
+ 7.0.0.0:0 [166] < Fwd Indirect Pong 10:0->6:0
+ 10.0.0.0:0 [167] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [167] Node 6.0.0.0:0 removed at time 167
+ 7.0.0.0:0 [167] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [167] Node 5.0.0.0:0 removed at time 167
+ 4.0.0.0:0 [167] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [167] Node 5.0.0.0:0 removed at time 167
+ 4.0.0.0:0 [167] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [167] Node 6.0.0.0:0 removed at time 167
+ 7.0.0.0:0 [168] ? Timed out ping to 2, trying via 1
+ 3.0.0.0:0 [168] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [168] Node 6.0.0.0:0 removed at time 168
+ 10.0.0.0:0 [169] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [169] Node 5.0.0.0:0 removed at time 169
+ 9.0.0.0:0 [169] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [169] Node 5.0.0.0:0 removed at time 169
+ 9.0.0.0:0 [169] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [169] Node 6.0.0.0:0 removed at time 169
+ 9.0.0.0:0 [169] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [169] Node 6.0.0.0:0 removed at time 169
+ 7.0.0.0:0 [169] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [169] Node 6.0.0.0:0 removed at time 169
+ 4.0.0.0:0 [169] ? Timed out ping to 10, trying via 1
+ 1.0.0.0:0 [169] > Fwd Indirect Ping 7:0->2:0
+ 9.0.0.0:0 [170] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [170] Node 6.0.0.0:0 removed at time 170
+ 1.0.0.0:0 [170] > Fwd Indirect Ping 4:0->10:0
+ 1.0.0.0:0 [170] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [170] Node 5.0.0.0:0 removed at time 170
+ 7.0.0.0:0 [171] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [171] Node 5.0.0.0:0 removed at time 171
+ 2.0.0.0:0 [171] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [171] Node 5.0.0.0:0 removed at time 171
+ 1.0.0.0:0 [171] < Fwd Indirect Pong 2:0->7:0
+ 1.0.0.0:0 [171] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [171] Node 5.0.0.0:0 removed at time 171
+ 9.0.0.0:0 [172] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [172] Node 5.0.0.0:0 removed at time 172
+ 4.0.0.0:0 [172] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [172] Node 5.0.0.0:0 removed at time 172
+ 2.0.0.0:0 [172] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [172] Node 6.0.0.0:0 removed at time 172
+ 1.0.0.0:0 [172] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [172] Node 6.0.0.0:0 removed at time 172
+ 1.0.0.0:0 [172] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [172] Node 6.0.0.0:0 removed at time 172
+ 1.0.0.0:0 [172] < Fwd Indirect Pong 10:0->4:0
+ 10.0.0.0:0 [173] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [173] Node 6.0.0.0:0 removed at time 173
+ 10.0.0.0:0 [173] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [173] Node 5.0.0.0:0 removed at time 173
+ 4.0.0.0:0 [173] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [173] Node 6.0.0.0:0 removed at time 173
+ 2.0.0.0:0 [173] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [173] Node 5.0.0.0:0 removed at time 173
+ 10.0.0.0:0 [174] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [174] Node 5.0.0.0:0 removed at time 174
+ 1.0.0.0:0 [174] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [174] Node 5.0.0.0:0 removed at time 174
+ 10.0.0.0:0 [175] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [175] Node 6.0.0.0:0 removed at time 175
+ 9.0.0.0:0 [175] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [175] Node 6.0.0.0:0 removed at time 175
+ 1.0.0.0:0 [175] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [175] Node 5.0.0.0:0 removed at time 175
+ 10.0.0.0:0 [176] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [176] Node 5.0.0.0:0 removed at time 176
+ 10.0.0.0:0 [176] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [176] Node 6.0.0.0:0 removed at time 176
+ 7.0.0.0:0 [176] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [176] Node 5.0.0.0:0 removed at time 176
+ 7.0.0.0:0 [176] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [176] Node 6.0.0.0:0 removed at time 176
+ 3.0.0.0:0 [176] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [176] Node 6.0.0.0:0 removed at time 176
+ 4.0.0.0:0 [177] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [177] Node 5.0.0.0:0 removed at time 177
+ 4.0.0.0:0 [177] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [177] Node 6.0.0.0:0 removed at time 177
+ 9.0.0.0:0 [178] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [178] Node 5.0.0.0:0 removed at time 178
+ 7.0.0.0:0 [178] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [178] Node 5.0.0.0:0 removed at time 178
+ 4.0.0.0:0 [178] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [178] Node 5.0.0.0:0 removed at time 178
+ 2.0.0.0:0 [178] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [178] Node 6.0.0.0:0 removed at time 178
+ 6.0.0.0:0 [179] ? Timed out ping to 9, trying via 4
+ 1.0.0.0:0 [179] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [179] Node 5.0.0.0:0 removed at time 179
+ 1.0.0.0:0 [179] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [179] Node 6.0.0.0:0 removed at time 179
+ 9.0.0.0:0 [180] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [180] Node 5.0.0.0:0 removed at time 180
+ 7.0.0.0:0 [180] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [180] Node 5.0.0.0:0 removed at time 180
+ 5.0.0.0:0 [180] ? Timed out ping to 3, trying via 4
+ 4.0.0.0:0 [180] > Fwd Indirect Ping 6:0->9:0
+ 2.0.0.0:0 [180] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [180] Node 6.0.0.0:0 removed at time 180
+ 1.0.0.0:0 [180] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [180] Node 6.0.0.0:0 removed at time 180
+ 9.0.0.0:0 [181] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [181] Node 6.0.0.0:0 removed at time 181
+ 9.0.0.0:0 [181] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [181] Node 5.0.0.0:0 removed at time 181
+ 3.0.0.0:0 [181] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [181] Node 6.0.0.0:0 removed at time 181
+ 7.0.0.0:0 [182] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [182] Node 6.0.0.0:0 removed at time 182
+ 4.0.0.0:0 [182] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [182] Node 5.0.0.0:0 removed at time 182
+ 4.0.0.0:0 [182] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [182] Node 6.0.0.0:0 removed at time 182
+ 4.0.0.0:0 [182] < Fwd Indirect Pong 9:0->6:0
+ 3.0.0.0:0 [182] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [182] Node 6.0.0.0:0 removed at time 182
+ 1.0.0.0:0 [182] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [182] Node 5.0.0.0:0 removed at time 182
+ 9.0.0.0:0 [183] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [183] Node 5.0.0.0:0 removed at time 183
+ 1.0.0.0:0 [183] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [183] Node 5.0.0.0:0 removed at time 183
+ 1.0.0.0:0 [183] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [183] Node 6.0.0.0:0 removed at time 183
+ 1.0.0.0:0 [184] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [184] Node 5.0.0.0:0 removed at time 184
+ 1.0.0.0:0 [185] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [185] Node 5.0.0.0:0 removed at time 185
+ 4.0.0.0:0 [186] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [186] Node 6.0.0.0:0 removed at time 186
+ 2.0.0.0:0 [186] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [186] Node 5.0.0.0:0 removed at time 186
+ 2.0.0.0:0 [186] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [186] Node 6.0.0.0:0 removed at time 186
+ 10.0.0.0:0 [187] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [187] Node 5.0.0.0:0 removed at time 187
+ 10.0.0.0:0 [187] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [187] Node 6.0.0.0:0 removed at time 187
+ 9.0.0.0:0 [187] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [187] Node 5.0.0.0:0 removed at time 187
+ 7.0.0.0:0 [187] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [187] Node 5.0.0.0:0 removed at time 187
+ 6.0.0.0:0 [187] Node 5.0.0.0:0 joined at time 187
+ 4.0.0.0:0 [187] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [187] Node 5.0.0.0:0 removed at time 187
+ 1.0.0.0:0 [188] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [188] Node 5.0.0.0:0 removed at time 188
+ 1.0.0.0:0 [188] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [188] Node 6.0.0.0:0 removed at time 188
+ 9.0.0.0:0 [189] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [189] Node 5.0.0.0:0 removed at time 189
+ 4.0.0.0:0 [189] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [189] Node 5.0.0.0:0 removed at time 189
+ 2.0.0.0:0 [189] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [189] Node 6.0.0.0:0 removed at time 189
+ 1.0.0.0:0 [189] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [189] Node 5.0.0.0:0 removed at time 189
+ 7.0.0.0:0 [190] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [190] Node 5.0.0.0:0 removed at time 190
+ 5.0.0.0:0 [190] Node 6.0.0.0:0 joined at time 190
+ 9.0.0.0:0 [191] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [191] Node 5.0.0.0:0 removed at time 191
+ 9.0.0.0:0 [191] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [191] Node 6.0.0.0:0 removed at time 191
+ 4.0.0.0:0 [191] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [191] Node 5.0.0.0:0 removed at time 191
+ 3.0.0.0:0 [191] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [191] Node 6.0.0.0:0 removed at time 191
+ 3.0.0.0:0 [191] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [191] Node 6.0.0.0:0 removed at time 191
+ 9.0.0.0:0 [192] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [192] Node 5.0.0.0:0 removed at time 192
+ 2.0.0.0:0 [193] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [193] Node 5.0.0.0:0 removed at time 193
+ 1.0.0.0:0 [193] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [193] Node 6.0.0.0:0 removed at time 193
+ 4.0.0.0:0 [194] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [194] Node 6.0.0.0:0 removed at time 194
+ 3.0.0.0:0 [195] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [195] Node 6.0.0.0:0 removed at time 195
+ 2.0.0.0:0 [195] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [195] Node 5.0.0.0:0 removed at time 195
+ 2.0.0.0:0 [195] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [195] Node 6.0.0.0:0 removed at time 195
+ 2.0.0.0:0 [195] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [195] Node 5.0.0.0:0 removed at time 195
+ 1.0.0.0:0 [195] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [195] Node 6.0.0.0:0 removed at time 195
+ 10.0.0.0:0 [196] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [196] Node 5.0.0.0:0 removed at time 196
+ 5.0.0.0:0 [196] Dropping 6 (Marked Dead by other node)
+ 5.0.0.0:0 [196] Node 6.0.0.0:0 removed at time 196
+ 4.0.0.0:0 [196] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [196] Node 5.0.0.0:0 removed at time 196
+ 1.0.0.0:0 [196] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [196] Node 5.0.0.0:0 removed at time 196
+ 1.0.0.0:0 [196] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [196] Node 6.0.0.0:0 removed at time 196
+ 10.0.0.0:0 [197] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [197] Node 5.0.0.0:0 removed at time 197
+ 9.0.0.0:0 [197] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [197] Node 5.0.0.0:0 removed at time 197
+ 4.0.0.0:0 [197] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [197] Node 5.0.0.0:0 removed at time 197
+ 1.0.0.0:0 [197] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [197] Node 6.0.0.0:0 removed at time 197
+ 5.0.0.0:0 [198] ? Timed out ping to 7, trying via 4
+ 1.0.0.0:0 [198] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [198] Node 5.0.0.0:0 removed at time 198
+ 1.0.0.0:0 [198] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [198] Node 6.0.0.0:0 removed at time 198
+ 4.0.0.0:0 [199] > Fwd Indirect Ping 5:0->7:0
+ 2.0.0.0:0 [199] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [199] Node 5.0.0.0:0 removed at time 199
+ 2.0.0.0:0 [199] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [199] Node 6.0.0.0:0 removed at time 199
+ 1.0.0.0:0 [199] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [199] Node 5.0.0.0:0 removed at time 199
+ 1.0.0.0:0 [199] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [199] Node 6.0.0.0:0 removed at time 199
+ 7.0.0.0:0 [200] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [200] Node 6.0.0.0:0 removed at time 200
+ 5.0.0.0:0 [200] Dropping 6 (Marked Dead by other node)
+ 5.0.0.0:0 [200] Node 6.0.0.0:0 removed at time 200
+ 4.0.0.0:0 [200] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [200] Node 5.0.0.0:0 removed at time 200
+ 10.0.0.0:0 [201] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [201] Node 6.0.0.0:0 removed at time 201
+ 7.0.0.0:0 [201] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [201] Node 5.0.0.0:0 removed at time 201
+ 5.0.0.0:0 [201] Dropping Node 3 (dead locally).
+ 5.0.0.0:0 [201] Node 3.0.0.0:0 removed at time 201
+ 4.0.0.0:0 [201] < Fwd Indirect Pong 7:0->5:0
+ 2.0.0.0:0 [201] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [201] Node 6.0.0.0:0 removed at time 201
+ 9.0.0.0:0 [202] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [202] Node 5.0.0.0:0 removed at time 202
+ 4.0.0.0:0 [202] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [202] Node 3.0.0.0:0 removed at time 202
+ 4.0.0.0:0 [202] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [202] Node 5.0.0.0:0 removed at time 202
+ 4.0.0.0:0 [202] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [202] Node 6.0.0.0:0 removed at time 202
+ 1.0.0.0:0 [202] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [202] Node 3.0.0.0:0 removed at time 202
+ 1.0.0.0:0 [202] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [202] Node 6.0.0.0:0 removed at time 202
+ 10.0.0.0:0 [203] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [203] Node 5.0.0.0:0 removed at time 203
+ 9.0.0.0:0 [203] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [203] Node 3.0.0.0:0 removed at time 203
+ 7.0.0.0:0 [203] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [203] Node 3.0.0.0:0 removed at time 203
+ 1.0.0.0:0 [203] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [203] Node 5.0.0.0:0 removed at time 203
+ 1.0.0.0:0 [203] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [203] Node 3.0.0.0:0 removed at time 203
+ 1.0.0.0:0 [203] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [203] Node 6.0.0.0:0 removed at time 203
+ 9.0.0.0:0 [204] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [204] Node 5.0.0.0:0 removed at time 204
+ 9.0.0.0:0 [204] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [204] Node 3.0.0.0:0 removed at time 204
+ 7.0.0.0:0 [204] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [204] Node 3.0.0.0:0 removed at time 204
+ 4.0.0.0:0 [204] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [204] Node 6.0.0.0:0 removed at time 204
+ 1.0.0.0:0 [204] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [204] Node 3.0.0.0:0 removed at time 204
+ 1.0.0.0:0 [204] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [204] Node 5.0.0.0:0 removed at time 204
+ 1.0.0.0:0 [204] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [204] Node 6.0.0.0:0 removed at time 204
+ 10.0.0.0:0 [205] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [205] Node 3.0.0.0:0 removed at time 205
+ 9.0.0.0:0 [205] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [205] Node 3.0.0.0:0 removed at time 205
+ 7.0.0.0:0 [205] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [205] Node 3.0.0.0:0 removed at time 205
+ 4.0.0.0:0 [205] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [205] Node 5.0.0.0:0 removed at time 205
+ 4.0.0.0:0 [205] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [205] Node 6.0.0.0:0 removed at time 205
+ 2.0.0.0:0 [205] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [205] Node 3.0.0.0:0 removed at time 205
+ 9.0.0.0:0 [206] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [206] Node 5.0.0.0:0 removed at time 206
+ 9.0.0.0:0 [206] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [206] Node 6.0.0.0:0 removed at time 206
+ 7.0.0.0:0 [206] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [206] Node 3.0.0.0:0 removed at time 206
+ 1.0.0.0:0 [206] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [206] Node 3.0.0.0:0 removed at time 206
+ 2.0.0.0:0 [207] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [207] Node 5.0.0.0:0 removed at time 207
+ 9.0.0.0:0 [208] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [208] Node 3.0.0.0:0 removed at time 208
+ 6.0.0.0:0 [208] Dropping 3 (Marked Dead by other node)
+ 6.0.0.0:0 [208] Node 3.0.0.0:0 removed at time 208
+ 4.0.0.0:0 [208] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [208] Node 5.0.0.0:0 removed at time 208
+ 4.0.0.0:0 [208] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [208] Node 6.0.0.0:0 removed at time 208
+ 1.0.0.0:0 [208] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [208] Node 5.0.0.0:0 removed at time 208
+ 1.0.0.0:0 [208] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [208] Node 6.0.0.0:0 removed at time 208
+ 1.0.0.0:0 [208] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [208] Node 3.0.0.0:0 removed at time 208
+ 1.0.0.0:0 [208] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [208] Node 6.0.0.0:0 removed at time 208
+ 9.0.0.0:0 [209] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [209] Node 5.0.0.0:0 removed at time 209
+ 7.0.0.0:0 [209] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [209] Node 3.0.0.0:0 removed at time 209
+ 4.0.0.0:0 [209] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [209] Node 5.0.0.0:0 removed at time 209
+ 4.0.0.0:0 [209] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [209] Node 6.0.0.0:0 removed at time 209
+ 10.0.0.0:0 [210] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [210] Node 3.0.0.0:0 removed at time 210
+ 7.0.0.0:0 [210] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [210] Node 5.0.0.0:0 removed at time 210
+ 4.0.0.0:0 [210] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [210] Node 6.0.0.0:0 removed at time 210
+ 1.0.0.0:0 [210] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [210] Node 3.0.0.0:0 removed at time 210
+ 10.0.0.0:0 [211] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [211] Node 3.0.0.0:0 removed at time 211
+ 10.0.0.0:0 [211] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [211] Node 5.0.0.0:0 removed at time 211
+ 10.0.0.0:0 [211] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [211] Node 6.0.0.0:0 removed at time 211
+ 9.0.0.0:0 [211] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [211] Node 5.0.0.0:0 removed at time 211
+ 9.0.0.0:0 [211] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [211] Node 6.0.0.0:0 removed at time 211
+ 5.0.0.0:0 [211] ? Timed out ping to 2, trying via 1
+ 4.0.0.0:0 [211] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [211] Node 6.0.0.0:0 removed at time 211
+ 1.0.0.0:0 [211] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [211] Node 3.0.0.0:0 removed at time 211
+ 7.0.0.0:0 [212] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [212] Node 3.0.0.0:0 removed at time 212
+ 6.0.0.0:0 [212] Dropping 3 (Marked Dead by other node)
+ 6.0.0.0:0 [212] Node 3.0.0.0:0 removed at time 212
+ 1.0.0.0:0 [212] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [212] Node 5.0.0.0:0 removed at time 212
+ 1.0.0.0:0 [212] > Fwd Indirect Ping 5:0->2:0
+ 10.0.0.0:0 [213] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [213] Node 5.0.0.0:0 removed at time 213
+ 7.0.0.0:0 [213] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [213] Node 6.0.0.0:0 removed at time 213
+ 6.0.0.0:0 [213] Dropping 5 (Marked Dead by other node)
+ 6.0.0.0:0 [213] Node 5.0.0.0:0 removed at time 213
+ 4.0.0.0:0 [213] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [213] Node 6.0.0.0:0 removed at time 213
+ 2.0.0.0:0 [213] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [213] Node 3.0.0.0:0 removed at time 213
+ 1.0.0.0:0 [213] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [213] Node 3.0.0.0:0 removed at time 213
+ 1.0.0.0:0 [213] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [213] Node 6.0.0.0:0 removed at time 213
+ 7.0.0.0:0 [214] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [214] Node 3.0.0.0:0 removed at time 214
+ 2.0.0.0:0 [214] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [214] Node 5.0.0.0:0 removed at time 214
+ 2.0.0.0:0 [214] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [214] Node 6.0.0.0:0 removed at time 214
+ 1.0.0.0:0 [214] < Fwd Indirect Pong 2:0->5:0
+ 1.0.0.0:0 [214] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [214] Node 3.0.0.0:0 removed at time 214
+ 7.0.0.0:0 [215] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [215] Node 3.0.0.0:0 removed at time 215
+ 5.0.0.0:0 [215] ? Timed out ping to 9, trying via 6
+ 4.0.0.0:0 [215] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [215] Node 5.0.0.0:0 removed at time 215
+ 4.0.0.0:0 [215] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [215] Node 6.0.0.0:0 removed at time 215
+ 4.0.0.0:0 [215] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [215] Node 5.0.0.0:0 removed at time 215
+ 4.0.0.0:0 [215] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [215] Node 6.0.0.0:0 removed at time 215
+ 6.0.0.0:0 [216] > Fwd Indirect Ping 5:0->9:0
+ 4.0.0.0:0 [216] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [216] Node 5.0.0.0:0 removed at time 216
+ 4.0.0.0:0 [216] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [216] Node 6.0.0.0:0 removed at time 216
+ 1.0.0.0:0 [216] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [216] Node 3.0.0.0:0 removed at time 216
+ 1.0.0.0:0 [216] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [216] Node 6.0.0.0:0 removed at time 216
+ 9.0.0.0:0 [217] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [217] Node 5.0.0.0:0 removed at time 217
+ 4.0.0.0:0 [217] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [217] Node 3.0.0.0:0 removed at time 217
+ 4.0.0.0:0 [217] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [217] Node 5.0.0.0:0 removed at time 217
+ 2.0.0.0:0 [217] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [217] Node 3.0.0.0:0 removed at time 217
+ 9.0.0.0:0 [218] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [218] Node 6.0.0.0:0 removed at time 218
+ 6.0.0.0:0 [218] Dropping 5 (Marked Dead by other node)
+ 6.0.0.0:0 [218] Node 5.0.0.0:0 removed at time 218
+ 5.0.0.0:0 [218] ? Timed out ping to 1, trying via 4
+ 2.0.0.0:0 [218] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [218] Node 6.0.0.0:0 removed at time 218
+ 1.0.0.0:0 [218] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [218] Node 3.0.0.0:0 removed at time 218
+ 1.0.0.0:0 [218] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [218] Node 6.0.0.0:0 removed at time 218
+ 9.0.0.0:0 [219] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [219] Node 3.0.0.0:0 removed at time 219
+ 7.0.0.0:0 [219] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [219] Node 5.0.0.0:0 removed at time 219
+ 4.0.0.0:0 [219] > Fwd Indirect Ping 5:0->1:0
+ 4.0.0.0:0 [219] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [219] Node 5.0.0.0:0 removed at time 219
+ 10.0.0.0:0 [220] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [220] Node 3.0.0.0:0 removed at time 220
+ 4.0.0.0:0 [220] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [220] Node 3.0.0.0:0 removed at time 220
+ 3.0.0.0:0 [220] Dropping 6 (Marked Dead by other node)
+ 3.0.0.0:0 [220] Node 6.0.0.0:0 removed at time 220
+ 2.0.0.0:0 [220] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [220] Node 3.0.0.0:0 removed at time 220
+ 1.0.0.0:0 [220] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [220] Node 5.0.0.0:0 removed at time 220
+ 10.0.0.0:0 [221] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [221] Node 5.0.0.0:0 removed at time 221
+ 10.0.0.0:0 [221] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [221] Node 6.0.0.0:0 removed at time 221
+ 7.0.0.0:0 [221] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [221] Node 3.0.0.0:0 removed at time 221
+ 6.0.0.0:0 [221] Dropping 3 (Marked Dead by other node)
+ 6.0.0.0:0 [221] Node 3.0.0.0:0 removed at time 221
+ 4.0.0.0:0 [221] < Fwd Indirect Pong 1:0->5:0
+ 4.0.0.0:0 [221] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [221] Node 3.0.0.0:0 removed at time 221
+ 2.0.0.0:0 [221] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [221] Node 5.0.0.0:0 removed at time 221
+ 1.0.0.0:0 [221] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [221] Node 6.0.0.0:0 removed at time 221
+ 9.0.0.0:0 [222] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [222] Node 3.0.0.0:0 removed at time 222
+ 7.0.0.0:0 [222] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [222] Node 6.0.0.0:0 removed at time 222
+ 6.0.0.0:0 [222] Dropping 5 (Marked Dead by other node)
+ 6.0.0.0:0 [222] Node 5.0.0.0:0 removed at time 222
+ 2.0.0.0:0 [222] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [222] Node 5.0.0.0:0 removed at time 222
+ 1.0.0.0:0 [222] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [222] Node 6.0.0.0:0 removed at time 222
+ 1.0.0.0:0 [222] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [222] Node 3.0.0.0:0 removed at time 222
+ 10.0.0.0:0 [223] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [223] Node 6.0.0.0:0 removed at time 223
+ 6.0.0.0:0 [223] Dropping 5 (Marked Dead by other node)
+ 6.0.0.0:0 [223] Node 5.0.0.0:0 removed at time 223
+ 5.0.0.0:0 [223] ? Timed out ping to 7, trying via 2
+ 2.0.0.0:0 [223] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [223] Node 6.0.0.0:0 removed at time 223
+ 1.0.0.0:0 [223] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [223] Node 5.0.0.0:0 removed at time 223
+ 1.0.0.0:0 [223] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [223] Node 6.0.0.0:0 removed at time 223
+ 10.0.0.0:0 [224] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [224] Node 5.0.0.0:0 removed at time 224
+ 9.0.0.0:0 [224] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [224] Node 3.0.0.0:0 removed at time 224
+ 4.0.0.0:0 [224] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [224] Node 5.0.0.0:0 removed at time 224
+ 2.0.0.0:0 [224] > Fwd Indirect Ping 5:0->7:0
+ 10.0.0.0:0 [225] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [225] Node 6.0.0.0:0 removed at time 225
+ 9.0.0.0:0 [225] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [225] Node 3.0.0.0:0 removed at time 225
+ 7.0.0.0:0 [225] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [225] Node 6.0.0.0:0 removed at time 225
+ 7.0.0.0:0 [225] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [225] Node 5.0.0.0:0 removed at time 225
+ 6.0.0.0:0 [225] Dropping 5 (Marked Dead by other node)
+ 6.0.0.0:0 [225] Node 5.0.0.0:0 removed at time 225
+ 4.0.0.0:0 [225] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [225] Node 3.0.0.0:0 removed at time 225
+ 10.0.0.0:0 [226] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [226] Node 3.0.0.0:0 removed at time 226
+ 10.0.0.0:0 [226] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [226] Node 5.0.0.0:0 removed at time 226
+ 4.0.0.0:0 [226] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [226] Node 6.0.0.0:0 removed at time 226
+ 4.0.0.0:0 [226] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [226] Node 3.0.0.0:0 removed at time 226
+ 2.0.0.0:0 [226] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [226] Node 6.0.0.0:0 removed at time 226
+ 2.0.0.0:0 [226] < Fwd Indirect Pong 7:0->5:0
+ 1.0.0.0:0 [226] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [226] Node 6.0.0.0:0 removed at time 226
+ 10.0.0.0:0 [227] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [227] Node 5.0.0.0:0 removed at time 227
+ 10.0.0.0:0 [227] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [227] Node 6.0.0.0:0 removed at time 227
+ 7.0.0.0:0 [227] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [227] Node 6.0.0.0:0 removed at time 227
+ 5.0.0.0:0 [227] Dropping 6 (Marked Dead by other node)
+ 5.0.0.0:0 [227] Node 6.0.0.0:0 removed at time 227
+ 4.0.0.0:0 [227] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [227] Node 5.0.0.0:0 removed at time 227
+ 2.0.0.0:0 [227] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [227] Node 3.0.0.0:0 removed at time 227
+ 1.0.0.0:0 [227] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [227] Node 6.0.0.0:0 removed at time 227
+ 10.0.0.0:0 [228] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [228] Node 3.0.0.0:0 removed at time 228
+ 9.0.0.0:0 [228] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [228] Node 3.0.0.0:0 removed at time 228
+ 9.0.0.0:0 [228] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [228] Node 3.0.0.0:0 removed at time 228
+ 7.0.0.0:0 [228] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [228] Node 5.0.0.0:0 removed at time 228
+ 7.0.0.0:0 [228] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [228] Node 6.0.0.0:0 removed at time 228
+ 4.0.0.0:0 [228] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [228] Node 3.0.0.0:0 removed at time 228
+ 4.0.0.0:0 [228] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [228] Node 6.0.0.0:0 removed at time 228
+ 10.0.0.0:0 [229] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [229] Node 5.0.0.0:0 removed at time 229
+ 9.0.0.0:0 [229] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [229] Node 3.0.0.0:0 removed at time 229
+ 4.0.0.0:0 [229] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [229] Node 6.0.0.0:0 removed at time 229
+ 3.0.0.0:0 [229] ? Timed out ping to 1, trying via 9
+ 1.0.0.0:0 [229] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [229] Node 5.0.0.0:0 removed at time 229
+ 1.0.0.0:0 [229] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [229] Node 6.0.0.0:0 removed at time 229
+ 10.0.0.0:0 [230] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [230] Node 5.0.0.0:0 removed at time 230
+ 9.0.0.0:0 [230] > Fwd Indirect Ping 3:0->1:0
+ 7.0.0.0:0 [230] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [230] Node 3.0.0.0:0 removed at time 230
+ 2.0.0.0:0 [230] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [230] Node 3.0.0.0:0 removed at time 230
+ 1.0.0.0:0 [230] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [230] Node 5.0.0.0:0 removed at time 230
+ 1.0.0.0:0 [230] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [230] Node 6.0.0.0:0 removed at time 230
+ 10.0.0.0:0 [231] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [231] Node 3.0.0.0:0 removed at time 231
+ 10.0.0.0:0 [231] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [231] Node 5.0.0.0:0 removed at time 231
+ 9.0.0.0:0 [231] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [231] Node 3.0.0.0:0 removed at time 231
+ 9.0.0.0:0 [231] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [231] Node 6.0.0.0:0 removed at time 231
+ 2.0.0.0:0 [231] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [231] Node 6.0.0.0:0 removed at time 231
+ 1.0.0.0:0 [231] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [231] Node 6.0.0.0:0 removed at time 231
+ 9.0.0.0:0 [232] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [232] Node 3.0.0.0:0 removed at time 232
+ 4.0.0.0:0 [232] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [232] Node 6.0.0.0:0 removed at time 232
+ 2.0.0.0:0 [232] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [232] Node 5.0.0.0:0 removed at time 232
+ 9.0.0.0:0 [233] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [233] Node 3.0.0.0:0 removed at time 233
+ 4.0.0.0:0 [233] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [233] Node 6.0.0.0:0 removed at time 233
+ 1.0.0.0:0 [233] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [233] Node 5.0.0.0:0 removed at time 233
+ 10.0.0.0:0 [234] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [234] Node 3.0.0.0:0 removed at time 234
+ 10.0.0.0:0 [234] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [234] Node 5.0.0.0:0 removed at time 234
+ 10.0.0.0:0 [234] ? Timed out ping to 9, trying via 1
+ 4.0.0.0:0 [234] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [234] Node 5.0.0.0:0 removed at time 234
+ 2.0.0.0:0 [234] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [234] Node 3.0.0.0:0 removed at time 234
+ 2.0.0.0:0 [234] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [234] Node 5.0.0.0:0 removed at time 234
+ 1.0.0.0:0 [234] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [234] Node 5.0.0.0:0 removed at time 234
+ 1.0.0.0:0 [234] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [234] Node 6.0.0.0:0 removed at time 234
+ 10.0.0.0:0 [235] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [235] Node 6.0.0.0:0 removed at time 235
+ 10.0.0.0:0 [235] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [235] Node 5.0.0.0:0 removed at time 235
+ 9.0.0.0:0 [235] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [235] Node 3.0.0.0:0 removed at time 235
+ 4.0.0.0:0 [235] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [235] Node 3.0.0.0:0 removed at time 235
+ 1.0.0.0:0 [235] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [235] Node 5.0.0.0:0 removed at time 235
+ 1.0.0.0:0 [235] > Fwd Indirect Ping 10:0->9:0
+ 9.0.0.0:0 [236] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [236] Node 3.0.0.0:0 removed at time 236
+ 5.0.0.0:0 [236] Dropping Node 9 (dead locally).
+ 5.0.0.0:0 [236] Node 9.0.0.0:0 removed at time 236
+ 2.0.0.0:0 [236] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [236] Node 6.0.0.0:0 removed at time 236
+ 1.0.0.0:0 [236] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [236] Node 6.0.0.0:0 removed at time 236
+ 1.0.0.0:0 [236] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [236] Node 5.0.0.0:0 removed at time 236
+ 10.0.0.0:0 [237] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [237] Node 6.0.0.0:0 removed at time 237
+ 9.0.0.0:0 [237] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [237] Node 6.0.0.0:0 removed at time 237
+ 9.0.0.0:0 [237] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [237] Node 3.0.0.0:0 removed at time 237
+ 3.0.0.0:0 [237] ? Timed out ping to 7, trying via 9
+ 2.0.0.0:0 [237] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [237] Node 3.0.0.0:0 removed at time 237
+ 1.0.0.0:0 [237] Dropping 9 (Marked Dead by other node)
+ 1.0.0.0:0 [237] Node 9.0.0.0:0 removed at time 237
+ 1.0.0.0:0 [237] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [237] Node 5.0.0.0:0 removed at time 237
+ 1.0.0.0:0 [237] < Fwd Indirect Pong 9:0->10:0
+ 10.0.0.0:0 [238] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [238] Node 9.0.0.0:0 removed at time 238
+ 10.0.0.0:0 [238] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [238] Node 9.0.0.0:0 removed at time 238
+ 10.0.0.0:0 [238] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [238] Node 5.0.0.0:0 removed at time 238
+ 9.0.0.0:0 [238] > Fwd Indirect Ping 3:0->7:0
+ 9.0.0.0:0 [238] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [238] Node 6.0.0.0:0 removed at time 238
+ 7.0.0.0:0 [238] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [238] Node 5.0.0.0:0 removed at time 238
+ 4.0.0.0:0 [238] Dropping 9 (Marked Dead by other node)
+ 4.0.0.0:0 [238] Node 9.0.0.0:0 removed at time 238
+ 4.0.0.0:0 [238] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [238] Node 6.0.0.0:0 removed at time 238
+ 1.0.0.0:0 [238] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [238] Node 6.0.0.0:0 removed at time 238
+ 9.0.0.0:0 [239] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [239] Node 3.0.0.0:0 removed at time 239
+ 4.0.0.0:0 [239] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [239] Node 3.0.0.0:0 removed at time 239
+ 4.0.0.0:0 [239] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [239] Node 6.0.0.0:0 removed at time 239
+ 2.0.0.0:0 [239] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [239] Node 9.0.0.0:0 removed at time 239
+ 1.0.0.0:0 [239] Dropping 9 (Marked Dead by other node)
+ 1.0.0.0:0 [239] Node 9.0.0.0:0 removed at time 239
+ 1.0.0.0:0 [239] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [239] Node 5.0.0.0:0 removed at time 239
+ 1.0.0.0:0 [239] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [239] Node 6.0.0.0:0 removed at time 239
+ 10.0.0.0:0 [240] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [240] Node 3.0.0.0:0 removed at time 240
+ 9.0.0.0:0 [240] < Fwd Indirect Pong 7:0->3:0
+ 9.0.0.0:0 [240] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [240] Node 6.0.0.0:0 removed at time 240
+ 9.0.0.0:0 [240] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [240] Node 3.0.0.0:0 removed at time 240
+ 9.0.0.0:0 [240] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [240] Node 6.0.0.0:0 removed at time 240
+ 7.0.0.0:0 [240] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [240] Node 9.0.0.0:0 removed at time 240
+ 7.0.0.0:0 [240] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [240] Node 3.0.0.0:0 removed at time 240
+ 7.0.0.0:0 [240] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [240] Node 5.0.0.0:0 removed at time 240
+ 2.0.0.0:0 [240] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [240] Node 3.0.0.0:0 removed at time 240
+ 2.0.0.0:0 [240] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [240] Node 5.0.0.0:0 removed at time 240
+ 1.0.0.0:0 [240] Dropping 9 (Marked Dead by other node)
+ 1.0.0.0:0 [240] Node 9.0.0.0:0 removed at time 240
+ 1.0.0.0:0 [240] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [240] Node 5.0.0.0:0 removed at time 240
+ 10.0.0.0:0 [241] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [241] Node 3.0.0.0:0 removed at time 241
+ 6.0.0.0:0 [241] Dropping 9 (Marked Dead by other node)
+ 6.0.0.0:0 [241] Node 9.0.0.0:0 removed at time 241
+ 6.0.0.0:0 [241] Dropping 9 (Marked Dead by other node)
+ 6.0.0.0:0 [241] Node 9.0.0.0:0 removed at time 241
+ 2.0.0.0:0 [241] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [241] Node 9.0.0.0:0 removed at time 241
+ 2.0.0.0:0 [241] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [241] Node 5.0.0.0:0 removed at time 241
+ 1.0.0.0:0 [241] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [241] Node 6.0.0.0:0 removed at time 241
+ 10.0.0.0:0 [242] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [242] Node 9.0.0.0:0 removed at time 242
+ 9.0.0.0:0 [242] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [242] Node 3.0.0.0:0 removed at time 242
+ 7.0.0.0:0 [242] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [242] Node 9.0.0.0:0 removed at time 242
+ 7.0.0.0:0 [242] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [242] Node 6.0.0.0:0 removed at time 242
+ 7.0.0.0:0 [242] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [242] Node 5.0.0.0:0 removed at time 242
+ 4.0.0.0:0 [242] Dropping 9 (Marked Dead by other node)
+ 4.0.0.0:0 [242] Node 9.0.0.0:0 removed at time 242
+ 1.0.0.0:0 [242] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [242] Node 5.0.0.0:0 removed at time 242
+ 4.0.0.0:0 [243] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [243] Node 6.0.0.0:0 removed at time 243
+ 4.0.0.0:0 [243] Dropping 9 (Marked Dead by other node)
+ 4.0.0.0:0 [243] Node 9.0.0.0:0 removed at time 243
+ 1.0.0.0:0 [243] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [243] Node 6.0.0.0:0 removed at time 243
+ 1.0.0.0:0 [243] Dropping 9 (Marked Dead by other node)
+ 1.0.0.0:0 [243] Node 9.0.0.0:0 removed at time 243
+ 10.0.0.0:0 [244] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [244] Node 3.0.0.0:0 removed at time 244
+ 10.0.0.0:0 [244] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [244] Node 9.0.0.0:0 removed at time 244
+ 7.0.0.0:0 [244] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [244] Node 9.0.0.0:0 removed at time 244
+ 4.0.0.0:0 [244] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [244] Node 6.0.0.0:0 removed at time 244
+ 2.0.0.0:0 [244] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [244] Node 9.0.0.0:0 removed at time 244
+ 1.0.0.0:0 [244] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [244] Node 6.0.0.0:0 removed at time 244
+ 10.0.0.0:0 [245] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [245] Node 5.0.0.0:0 removed at time 245
+ 4.0.0.0:0 [245] Dropping 9 (Marked Dead by other node)
+ 4.0.0.0:0 [245] Node 9.0.0.0:0 removed at time 245
+ 1.0.0.0:0 [245] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [245] Node 5.0.0.0:0 removed at time 245
+ 1.0.0.0:0 [245] Dropping 9 (Marked Dead by other node)
+ 1.0.0.0:0 [245] Node 9.0.0.0:0 removed at time 245
+ 10.0.0.0:0 [246] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [246] Node 5.0.0.0:0 removed at time 246
+ 10.0.0.0:0 [246] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [246] Node 9.0.0.0:0 removed at time 246
+ 7.0.0.0:0 [246] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [246] Node 6.0.0.0:0 removed at time 246
+ 4.0.0.0:0 [246] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [246] Node 6.0.0.0:0 removed at time 246
+ 2.0.0.0:0 [246] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [246] Node 3.0.0.0:0 removed at time 246
+ 1.0.0.0:0 [246] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [246] Node 6.0.0.0:0 removed at time 246
+ 10.0.0.0:0 [247] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [247] Node 6.0.0.0:0 removed at time 247
+ 2.0.0.0:0 [247] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [247] Node 3.0.0.0:0 removed at time 247
+ 1.0.0.0:0 [247] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [247] Node 5.0.0.0:0 removed at time 247
+ 10.0.0.0:0 [248] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [248] Node 9.0.0.0:0 removed at time 248
+ 7.0.0.0:0 [248] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [248] Node 5.0.0.0:0 removed at time 248
+ 5.0.0.0:0 [248] ? Timed out ping to 4, trying via 7
+ 2.0.0.0:0 [248] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [248] Node 6.0.0.0:0 removed at time 248
+ 2.0.0.0:0 [248] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [248] Node 6.0.0.0:0 removed at time 248
+ 1.0.0.0:0 [248] Dropping 9 (Marked Dead by other node)
+ 1.0.0.0:0 [248] Node 9.0.0.0:0 removed at time 248
+ 10.0.0.0:0 [249] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [249] Node 5.0.0.0:0 removed at time 249
+ 10.0.0.0:0 [249] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [249] Node 6.0.0.0:0 removed at time 249
+ 7.0.0.0:0 [249] > Fwd Indirect Ping 5:0->4:0
+ 7.0.0.0:0 [249] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [249] Node 5.0.0.0:0 removed at time 249
+ 7.0.0.0:0 [249] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [249] Node 3.0.0.0:0 removed at time 249
+ 6.0.0.0:0 [249] Dropping 9 (Marked Dead by other node)
+ 6.0.0.0:0 [249] Node 9.0.0.0:0 removed at time 249
+ 10.0.0.0:0 [250] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [250] Node 9.0.0.0:0 removed at time 250
+ 7.0.0.0:0 [250] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [250] Node 3.0.0.0:0 removed at time 250
+ 7.0.0.0:0 [250] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [250] Node 6.0.0.0:0 removed at time 250
+ 4.0.0.0:0 [250] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [250] Node 5.0.0.0:0 removed at time 250
+ 4.0.0.0:0 [250] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [250] Node 6.0.0.0:0 removed at time 250
+ 3.0.0.0:0 [250] Dropping Node 1 (dead locally).
+ 3.0.0.0:0 [250] Node 1.0.0.0:0 removed at time 250
+ 1.0.0.0:0 [250] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [250] Node 5.0.0.0:0 removed at time 250
+ 10.0.0.0:0 [251] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [251] Node 1.0.0.0:0 removed at time 251
+ 9.0.0.0:0 [251] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [251] Node 3.0.0.0:0 removed at time 251
+ 9.0.0.0:0 [251] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [251] Node 6.0.0.0:0 removed at time 251
+ 7.0.0.0:0 [251] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [251] Node 5.0.0.0:0 removed at time 251
+ 7.0.0.0:0 [251] < Fwd Indirect Pong 4:0->5:0
+ 5.0.0.0:0 [251] ? Timed out ping to 2, trying via 7
+ 4.0.0.0:0 [251] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [251] Node 3.0.0.0:0 removed at time 251
+ 2.0.0.0:0 [251] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [251] Node 1.0.0.0:0 removed at time 251
+ 2.0.0.0:0 [251] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [251] Node 9.0.0.0:0 removed at time 251
+ 1.0.0.0:0 [251] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [251] Node 5.0.0.0:0 removed at time 251
+ 10.0.0.0:0 [252] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [252] Node 3.0.0.0:0 removed at time 252
+ 10.0.0.0:0 [252] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [252] Node 6.0.0.0:0 removed at time 252
+ 9.0.0.0:0 [252] Dropping 1 (Marked Dead by other node)
+ 9.0.0.0:0 [252] Node 1.0.0.0:0 removed at time 252
+ 7.0.0.0:0 [252] > Fwd Indirect Ping 5:0->2:0
+ 7.0.0.0:0 [252] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [252] Node 9.0.0.0:0 removed at time 252
+ 6.0.0.0:0 [252] Dropping 9 (Marked Dead by other node)
+ 6.0.0.0:0 [252] Node 9.0.0.0:0 removed at time 252
+ 6.0.0.0:0 [252] Dropping 1 (Marked Dead by other node)
+ 6.0.0.0:0 [252] Node 1.0.0.0:0 removed at time 252
+ 3.0.0.0:0 [252] Dropping 9 (Marked Dead by other node)
+ 3.0.0.0:0 [252] Node 9.0.0.0:0 removed at time 252
+ 2.0.0.0:0 [252] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [252] Node 6.0.0.0:0 removed at time 252
+ 2.0.0.0:0 [252] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [252] Node 1.0.0.0:0 removed at time 252
+ 2.0.0.0:0 [252] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [252] Node 3.0.0.0:0 removed at time 252
+ 2.0.0.0:0 [252] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [252] Node 1.0.0.0:0 removed at time 252
+ 2.0.0.0:0 [252] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [252] Node 9.0.0.0:0 removed at time 252
+ 10.0.0.0:0 [253] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [253] Node 1.0.0.0:0 removed at time 253
+ 7.0.0.0:0 [253] Dropping 1 (Marked Dead by other node)
+ 7.0.0.0:0 [253] Node 1.0.0.0:0 removed at time 253
+ 7.0.0.0:0 [253] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [253] Node 3.0.0.0:0 removed at time 253
+ 7.0.0.0:0 [253] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [253] Node 5.0.0.0:0 removed at time 253
+ 7.0.0.0:0 [253] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [253] Node 5.0.0.0:0 removed at time 253
+ 2.0.0.0:0 [253] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [253] Node 1.0.0.0:0 removed at time 253
+ 2.0.0.0:0 [253] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [253] Node 6.0.0.0:0 removed at time 253
+ 1.0.0.0:0 [253] Dropping 5 (Marked Dead by other node)
+ 1.0.0.0:0 [253] Node 5.0.0.0:0 removed at time 253
+ 1.0.0.0:0 [253] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [253] Node 6.0.0.0:0 removed at time 253
+ 7.0.0.0:0 [254] < Fwd Indirect Pong 2:0->5:0
+ 7.0.0.0:0 [254] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [254] Node 6.0.0.0:0 removed at time 254
+ 5.0.0.0:0 [254] Dropping 1 (Marked Dead by other node)
+ 5.0.0.0:0 [254] Node 1.0.0.0:0 removed at time 254
+ 4.0.0.0:0 [254] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [254] Node 1.0.0.0:0 removed at time 254
+ 4.0.0.0:0 [254] ? Timed out ping to 2, trying via 10
+ 2.0.0.0:0 [254] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [254] Node 5.0.0.0:0 removed at time 254
+ 2.0.0.0:0 [254] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [254] Node 9.0.0.0:0 removed at time 254
+ 2.0.0.0:0 [254] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [254] Node 1.0.0.0:0 removed at time 254
+ 2.0.0.0:0 [254] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [254] Node 3.0.0.0:0 removed at time 254
+ 10.0.0.0:0 [255] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [255] Node 5.0.0.0:0 removed at time 255
+ 10.0.0.0:0 [255] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [255] Node 6.0.0.0:0 removed at time 255
+ 10.0.0.0:0 [255] > Fwd Indirect Ping 4:0->2:0
+ 10.0.0.0:0 [255] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [255] Node 1.0.0.0:0 removed at time 255
+ 7.0.0.0:0 [255] Dropping 1 (Marked Dead by other node)
+ 7.0.0.0:0 [255] Node 1.0.0.0:0 removed at time 255
+ 4.0.0.0:0 [255] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [255] Node 1.0.0.0:0 removed at time 255
+ 4.0.0.0:0 [255] Dropping 9 (Marked Dead by other node)
+ 4.0.0.0:0 [255] Node 9.0.0.0:0 removed at time 255
+ 2.0.0.0:0 [255] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [255] Node 3.0.0.0:0 removed at time 255
+ 7.0.0.0:0 [256] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [256] Node 6.0.0.0:0 removed at time 256
+ 7.0.0.0:0 [256] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [256] Node 9.0.0.0:0 removed at time 256
+ 4.0.0.0:0 [256] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [256] Node 3.0.0.0:0 removed at time 256
+ 4.0.0.0:0 [256] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [256] Node 5.0.0.0:0 removed at time 256
+ 4.0.0.0:0 [256] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [256] Node 6.0.0.0:0 removed at time 256
+ 3.0.0.0:0 [256] Dropping 9 (Marked Dead by other node)
+ 3.0.0.0:0 [256] Node 9.0.0.0:0 removed at time 256
+ 2.0.0.0:0 [256] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [256] Node 1.0.0.0:0 removed at time 256
+ 2.0.0.0:0 [256] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [256] Node 5.0.0.0:0 removed at time 256
+ 10.0.0.0:0 [257] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [257] Node 5.0.0.0:0 removed at time 257
+ 10.0.0.0:0 [257] < Fwd Indirect Pong 2:0->4:0
+ 10.0.0.0:0 [257] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [257] Node 1.0.0.0:0 removed at time 257
+ 10.0.0.0:0 [257] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [257] Node 6.0.0.0:0 removed at time 257
+ 7.0.0.0:0 [257] Dropping 1 (Marked Dead by other node)
+ 7.0.0.0:0 [257] Node 1.0.0.0:0 removed at time 257
+ 4.0.0.0:0 [257] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [257] Node 3.0.0.0:0 removed at time 257
+ 4.0.0.0:0 [257] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [257] Node 5.0.0.0:0 removed at time 257
+ 2.0.0.0:0 [257] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [257] Node 9.0.0.0:0 removed at time 257
+ 2.0.0.0:0 [257] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [257] Node 3.0.0.0:0 removed at time 257
+ 1.0.0.0:0 [257] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [257] Node 6.0.0.0:0 removed at time 257
+ 9.0.0.0:0 [258] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [258] Node 3.0.0.0:0 removed at time 258
+ 9.0.0.0:0 [258] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [258] Node 3.0.0.0:0 removed at time 258
+ 7.0.0.0:0 [258] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [258] Node 5.0.0.0:0 removed at time 258
+ 7.0.0.0:0 [258] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [258] Node 9.0.0.0:0 removed at time 258
+ 7.0.0.0:0 [258] Dropping 1 (Marked Dead by other node)
+ 7.0.0.0:0 [258] Node 1.0.0.0:0 removed at time 258
+ 7.0.0.0:0 [258] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [258] Node 9.0.0.0:0 removed at time 258
+ 2.0.0.0:0 [258] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [258] Node 1.0.0.0:0 removed at time 258
+ 2.0.0.0:0 [258] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [258] Node 5.0.0.0:0 removed at time 258
+ 2.0.0.0:0 [258] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [258] Node 9.0.0.0:0 removed at time 258
+ 10.0.0.0:0 [259] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [259] Node 1.0.0.0:0 removed at time 259
+ 7.0.0.0:0 [259] Dropping 1 (Marked Dead by other node)
+ 7.0.0.0:0 [259] Node 1.0.0.0:0 removed at time 259
+ 6.0.0.0:0 [259] Dropping 1 (Marked Dead by other node)
+ 6.0.0.0:0 [259] Node 1.0.0.0:0 removed at time 259
+ 2.0.0.0:0 [259] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [259] Node 3.0.0.0:0 removed at time 259
+ 2.0.0.0:0 [259] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [259] Node 6.0.0.0:0 removed at time 259
+ 2.0.0.0:0 [259] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [259] Node 6.0.0.0:0 removed at time 259
+ 1.0.0.0:0 [259] Dropping 6 (Marked Dead by other node)
+ 1.0.0.0:0 [259] Node 6.0.0.0:0 removed at time 259
+ 10.0.0.0:0 [260] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [260] Node 1.0.0.0:0 removed at time 260
+ 10.0.0.0:0 [260] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [260] Node 9.0.0.0:0 removed at time 260
+ 10.0.0.0:0 [260] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [260] Node 5.0.0.0:0 removed at time 260
+ 10.0.0.0:0 [260] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [260] Node 6.0.0.0:0 removed at time 260
+ 10.0.0.0:0 [260] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [260] Node 1.0.0.0:0 removed at time 260
+ 10.0.0.0:0 [260] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [260] Node 6.0.0.0:0 removed at time 260
+ 7.0.0.0:0 [260] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [260] Node 9.0.0.0:0 removed at time 260
+ 4.0.0.0:0 [260] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [260] Node 1.0.0.0:0 removed at time 260
+ 2.0.0.0:0 [260] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [260] Node 1.0.0.0:0 removed at time 260
+ 2.0.0.0:0 [260] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [260] Node 3.0.0.0:0 removed at time 260
+ 2.0.0.0:0 [260] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [260] Node 5.0.0.0:0 removed at time 260
+ 2.0.0.0:0 [260] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [260] Node 9.0.0.0:0 removed at time 260
+ 2.0.0.0:0 [260] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [260] Node 5.0.0.0:0 removed at time 260
+ 2.0.0.0:0 [260] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [260] Node 6.0.0.0:0 removed at time 260
+ 10.0.0.0:0 [261] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [261] Node 5.0.0.0:0 removed at time 261
+ 10.0.0.0:0 [261] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [261] Node 1.0.0.0:0 removed at time 261
+ 10.0.0.0:0 [261] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [261] Node 3.0.0.0:0 removed at time 261
+ 7.0.0.0:0 [261] Dropping 1 (Marked Dead by other node)
+ 7.0.0.0:0 [261] Node 1.0.0.0:0 removed at time 261
+ 7.0.0.0:0 [261] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [261] Node 9.0.0.0:0 removed at time 261
+ 4.0.0.0:0 [261] Dropping 9 (Marked Dead by other node)
+ 4.0.0.0:0 [261] Node 9.0.0.0:0 removed at time 261
+ 4.0.0.0:0 [261] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [261] Node 5.0.0.0:0 removed at time 261
+ 4.0.0.0:0 [261] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [261] Node 6.0.0.0:0 removed at time 261
+ 2.0.0.0:0 [261] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [261] Node 6.0.0.0:0 removed at time 261
+ 2.0.0.0:0 [261] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [261] Node 5.0.0.0:0 removed at time 261
+ 10.0.0.0:0 [262] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [262] Node 9.0.0.0:0 removed at time 262
+ 9.0.0.0:0 [262] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [262] Node 3.0.0.0:0 removed at time 262
+ 4.0.0.0:0 [262] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [262] Node 3.0.0.0:0 removed at time 262
+ 2.0.0.0:0 [262] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [262] Node 1.0.0.0:0 removed at time 262
+ 10.0.0.0:0 [263] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [263] Node 1.0.0.0:0 removed at time 263
+ 10.0.0.0:0 [263] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [263] Node 6.0.0.0:0 removed at time 263
+ 10.0.0.0:0 [263] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [263] Node 9.0.0.0:0 removed at time 263
+ 9.0.0.0:0 [263] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [263] Node 3.0.0.0:0 removed at time 263
+ 4.0.0.0:0 [263] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [263] Node 1.0.0.0:0 removed at time 263
+ 4.0.0.0:0 [263] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [263] Node 6.0.0.0:0 removed at time 263
+ 10.0.0.0:0 [264] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [264] Node 1.0.0.0:0 removed at time 264
+ 10.0.0.0:0 [264] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [264] Node 6.0.0.0:0 removed at time 264
+ 9.0.0.0:0 [264] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [264] Node 3.0.0.0:0 removed at time 264
+ 7.0.0.0:0 [264] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [264] Node 3.0.0.0:0 removed at time 264
+ 7.0.0.0:0 [264] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [264] Node 9.0.0.0:0 removed at time 264
+ 2.0.0.0:0 [264] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [264] Node 5.0.0.0:0 removed at time 264
+ 2.0.0.0:0 [264] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [264] Node 9.0.0.0:0 removed at time 264
+ 2.0.0.0:0 [264] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [264] Node 1.0.0.0:0 removed at time 264
+ 2.0.0.0:0 [264] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [264] Node 5.0.0.0:0 removed at time 264
+ 2.0.0.0:0 [264] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [264] Node 6.0.0.0:0 removed at time 264
+ 10.0.0.0:0 [265] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [265] Node 1.0.0.0:0 removed at time 265
+ 7.0.0.0:0 [265] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [265] Node 5.0.0.0:0 removed at time 265
+ 4.0.0.0:0 [265] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [265] Node 1.0.0.0:0 removed at time 265
+ 4.0.0.0:0 [265] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [265] Node 1.0.0.0:0 removed at time 265
+ 4.0.0.0:0 [265] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [265] Node 3.0.0.0:0 removed at time 265
+ 2.0.0.0:0 [265] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [265] Node 9.0.0.0:0 removed at time 265
+ 2.0.0.0:0 [265] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [265] Node 3.0.0.0:0 removed at time 265
+ 2.0.0.0:0 [265] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [265] Node 5.0.0.0:0 removed at time 265
+ 2.0.0.0:0 [265] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [265] Node 6.0.0.0:0 removed at time 265
+ 1.0.0.0:0 [265] ? Timed out ping to 7, trying via 4
+ 10.0.0.0:0 [266] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [266] Node 9.0.0.0:0 removed at time 266
+ 10.0.0.0:0 [266] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [266] Node 6.0.0.0:0 removed at time 266
+ 4.0.0.0:0 [266] > Fwd Indirect Ping 1:0->7:0
+ 4.0.0.0:0 [266] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [266] Node 3.0.0.0:0 removed at time 266
+ 4.0.0.0:0 [266] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [266] Node 6.0.0.0:0 removed at time 266
+ 3.0.0.0:0 [266] ? Timed out ping to 10, trying via 9
+ 2.0.0.0:0 [266] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [266] Node 9.0.0.0:0 removed at time 266
+ 2.0.0.0:0 [266] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [266] Node 5.0.0.0:0 removed at time 266
+ 9.0.0.0:0 [267] > Fwd Indirect Ping 3:0->10:0
+ 9.0.0.0:0 [267] ? Timed out ping to 4, trying via 2
+ 4.0.0.0:0 [267] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [267] Node 1.0.0.0:0 removed at time 267
+ 4.0.0.0:0 [267] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [267] Node 6.0.0.0:0 removed at time 267
+ 4.0.0.0:0 [267] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [267] Node 1.0.0.0:0 removed at time 267
+ 2.0.0.0:0 [267] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [267] Node 9.0.0.0:0 removed at time 267
+ 2.0.0.0:0 [267] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [267] Node 3.0.0.0:0 removed at time 267
+ 2.0.0.0:0 [267] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [267] Node 5.0.0.0:0 removed at time 267
+ 2.0.0.0:0 [267] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [267] Node 6.0.0.0:0 removed at time 267
+ 10.0.0.0:0 [268] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [268] Node 1.0.0.0:0 removed at time 268
+ 10.0.0.0:0 [268] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [268] Node 1.0.0.0:0 removed at time 268
+ 10.0.0.0:0 [268] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [268] Node 3.0.0.0:0 removed at time 268
+ 7.0.0.0:0 [268] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [268] Node 9.0.0.0:0 removed at time 268
+ 4.0.0.0:0 [268] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [268] Node 1.0.0.0:0 removed at time 268
+ 4.0.0.0:0 [268] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [268] Node 5.0.0.0:0 removed at time 268
+ 4.0.0.0:0 [268] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [268] Node 6.0.0.0:0 removed at time 268
+ 2.0.0.0:0 [268] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [268] Node 3.0.0.0:0 removed at time 268
+ 2.0.0.0:0 [268] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [268] Node 9.0.0.0:0 removed at time 268
+ 2.0.0.0:0 [268] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [268] Node 5.0.0.0:0 removed at time 268
+ 2.0.0.0:0 [268] > Fwd Indirect Ping 9:0->4:0
+ 2.0.0.0:0 [268] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [268] Node 9.0.0.0:0 removed at time 268
+ 10.0.0.0:0 [269] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [269] Node 1.0.0.0:0 removed at time 269
+ 10.0.0.0:0 [269] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [269] Node 6.0.0.0:0 removed at time 269
+ 10.0.0.0:0 [269] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [269] Node 1.0.0.0:0 removed at time 269
+ 9.0.0.0:0 [269] < Fwd Indirect Pong 10:0->3:0
+ 7.0.0.0:0 [269] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [269] Node 6.0.0.0:0 removed at time 269
+ 3.0.0.0:0 [269] ? Timed out ping to 7, trying via 9
+ 2.0.0.0:0 [269] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [269] Node 5.0.0.0:0 removed at time 269
+ 10.0.0.0:0 [270] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [270] Node 1.0.0.0:0 removed at time 270
+ 10.0.0.0:0 [270] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [270] Node 5.0.0.0:0 removed at time 270
+ 9.0.0.0:0 [270] > Fwd Indirect Ping 3:0->7:0
+ 7.0.0.0:0 [270] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [270] Node 5.0.0.0:0 removed at time 270
+ 7.0.0.0:0 [270] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [270] Node 9.0.0.0:0 removed at time 270
+ 4.0.0.0:0 [270] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [270] Node 6.0.0.0:0 removed at time 270
+ 2.0.0.0:0 [270] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [270] Node 1.0.0.0:0 removed at time 270
+ 2.0.0.0:0 [270] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [270] Node 3.0.0.0:0 removed at time 270
+ 2.0.0.0:0 [270] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [270] Node 5.0.0.0:0 removed at time 270
+ 2.0.0.0:0 [270] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [270] Node 9.0.0.0:0 removed at time 270
+ 10.0.0.0:0 [271] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [271] Node 1.0.0.0:0 removed at time 271
+ 7.0.0.0:0 [271] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [271] Node 3.0.0.0:0 removed at time 271
+ 7.0.0.0:0 [271] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [271] Node 5.0.0.0:0 removed at time 271
+ 4.0.0.0:0 [271] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [271] Node 1.0.0.0:0 removed at time 271
+ 2.0.0.0:0 [271] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [271] Node 3.0.0.0:0 removed at time 271
+ 2.0.0.0:0 [271] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [271] Node 9.0.0.0:0 removed at time 271
+ 2.0.0.0:0 [271] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [271] Node 5.0.0.0:0 removed at time 271
+ 2.0.0.0:0 [271] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [271] Node 6.0.0.0:0 removed at time 271
+ 9.0.0.0:0 [272] < Fwd Indirect Pong 7:0->3:0
+ 9.0.0.0:0 [272] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [272] Node 3.0.0.0:0 removed at time 272
+ 7.0.0.0:0 [272] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [272] Node 9.0.0.0:0 removed at time 272
+ 4.0.0.0:0 [272] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [272] Node 1.0.0.0:0 removed at time 272
+ 4.0.0.0:0 [272] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [272] Node 5.0.0.0:0 removed at time 272
+ 4.0.0.0:0 [272] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [272] Node 6.0.0.0:0 removed at time 272
+ 2.0.0.0:0 [272] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [272] Node 1.0.0.0:0 removed at time 272
+ 2.0.0.0:0 [272] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [272] Node 9.0.0.0:0 removed at time 272
+ 2.0.0.0:0 [272] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [272] Node 9.0.0.0:0 removed at time 272
+ 10.0.0.0:0 [273] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [273] Node 6.0.0.0:0 removed at time 273
+ 10.0.0.0:0 [273] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [273] Node 1.0.0.0:0 removed at time 273
+ 7.0.0.0:0 [273] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [273] Node 9.0.0.0:0 removed at time 273
+ 4.0.0.0:0 [273] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [273] Node 5.0.0.0:0 removed at time 273
+ 2.0.0.0:0 [273] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [273] Node 1.0.0.0:0 removed at time 273
+ 2.0.0.0:0 [273] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [273] Node 3.0.0.0:0 removed at time 273
+ 2.0.0.0:0 [273] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [273] Node 6.0.0.0:0 removed at time 273
+ 2.0.0.0:0 [273] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [273] Node 9.0.0.0:0 removed at time 273
+ 10.0.0.0:0 [274] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [274] Node 5.0.0.0:0 removed at time 274
+ 10.0.0.0:0 [274] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [274] Node 6.0.0.0:0 removed at time 274
+ 10.0.0.0:0 [274] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [274] Node 9.0.0.0:0 removed at time 274
+ 7.0.0.0:0 [274] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [274] Node 9.0.0.0:0 removed at time 274
+ 4.0.0.0:0 [274] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [274] Node 3.0.0.0:0 removed at time 274
+ 4.0.0.0:0 [274] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [274] Node 6.0.0.0:0 removed at time 274
+ 2.0.0.0:0 [274] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [274] Node 1.0.0.0:0 removed at time 274
+ 2.0.0.0:0 [274] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [274] Node 5.0.0.0:0 removed at time 274
+ 2.0.0.0:0 [274] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [274] Node 6.0.0.0:0 removed at time 274
+ 10.0.0.0:0 [275] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [275] Node 1.0.0.0:0 removed at time 275
+ 10.0.0.0:0 [275] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [275] Node 9.0.0.0:0 removed at time 275
+ 4.0.0.0:0 [275] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [275] Node 1.0.0.0:0 removed at time 275
+ 4.0.0.0:0 [275] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [275] Node 6.0.0.0:0 removed at time 275
+ 10.0.0.0:0 [276] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [276] Node 5.0.0.0:0 removed at time 276
+ 7.0.0.0:0 [276] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [276] Node 9.0.0.0:0 removed at time 276
+ 4.0.0.0:0 [276] Dropping 1 (Marked Dead by other node)
+ 4.0.0.0:0 [276] Node 1.0.0.0:0 removed at time 276
+ 3.0.0.0:0 [276] ? Timed out ping to 10, trying via 2
+ 2.0.0.0:0 [276] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [276] Node 3.0.0.0:0 removed at time 276
+ 2.0.0.0:0 [276] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [276] Node 5.0.0.0:0 removed at time 276
+ 2.0.0.0:0 [276] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [276] Node 6.0.0.0:0 removed at time 276
+ 2.0.0.0:0 [276] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [276] Node 9.0.0.0:0 removed at time 276
+ 10.0.0.0:0 [277] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [277] Node 1.0.0.0:0 removed at time 277
+ 7.0.0.0:0 [277] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [277] Node 5.0.0.0:0 removed at time 277
+ 7.0.0.0:0 [277] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [277] Node 9.0.0.0:0 removed at time 277
+ 4.0.0.0:0 [277] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [277] Node 3.0.0.0:0 removed at time 277
+ 4.0.0.0:0 [277] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [277] Node 6.0.0.0:0 removed at time 277
+ 3.0.0.0:0 [277] Dropping 9 (Marked Dead by other node)
+ 3.0.0.0:0 [277] Node 9.0.0.0:0 removed at time 277
+ 2.0.0.0:0 [277] > Fwd Indirect Ping 3:0->10:0
+ 2.0.0.0:0 [277] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [277] Node 1.0.0.0:0 removed at time 277
+ 10.0.0.0:0 [278] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [278] Node 6.0.0.0:0 removed at time 278
+ 10.0.0.0:0 [278] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [278] Node 1.0.0.0:0 removed at time 278
+ 10.0.0.0:0 [278] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [278] Node 5.0.0.0:0 removed at time 278
+ 7.0.0.0:0 [278] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [278] Node 9.0.0.0:0 removed at time 278
+ 4.0.0.0:0 [278] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [278] Node 3.0.0.0:0 removed at time 278
+ 4.0.0.0:0 [278] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [278] Node 6.0.0.0:0 removed at time 278
+ 2.0.0.0:0 [278] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [278] Node 9.0.0.0:0 removed at time 278
+ 10.0.0.0:0 [279] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [279] Node 3.0.0.0:0 removed at time 279
+ 10.0.0.0:0 [279] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [279] Node 5.0.0.0:0 removed at time 279
+ 7.0.0.0:0 [279] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [279] Node 6.0.0.0:0 removed at time 279
+ 2.0.0.0:0 [279] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [279] Node 3.0.0.0:0 removed at time 279
+ 2.0.0.0:0 [279] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [279] Node 5.0.0.0:0 removed at time 279
+ 2.0.0.0:0 [279] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [279] Node 9.0.0.0:0 removed at time 279
+ 2.0.0.0:0 [279] < Fwd Indirect Pong 10:0->3:0
+ 7.0.0.0:0 [280] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [280] Node 3.0.0.0:0 removed at time 280
+ 3.0.0.0:0 [280] Dropping 9 (Marked Dead by other node)
+ 3.0.0.0:0 [280] Node 9.0.0.0:0 removed at time 280
+ 2.0.0.0:0 [280] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [280] Node 1.0.0.0:0 removed at time 280
+ 2.0.0.0:0 [280] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [280] Node 5.0.0.0:0 removed at time 280
+ 2.0.0.0:0 [280] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [280] Node 9.0.0.0:0 removed at time 280
+ 2.0.0.0:0 [280] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [280] Node 5.0.0.0:0 removed at time 280
+ 2.0.0.0:0 [280] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [280] Node 6.0.0.0:0 removed at time 280
+ 2.0.0.0:0 [280] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [280] Node 9.0.0.0:0 removed at time 280
+ 10.0.0.0:0 [281] Dropping 1 (Marked Dead by other node)
+ 10.0.0.0:0 [281] Node 1.0.0.0:0 removed at time 281
+ 10.0.0.0:0 [281] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [281] Node 6.0.0.0:0 removed at time 281
+ 10.0.0.0:0 [281] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [281] Node 9.0.0.0:0 removed at time 281
+ 7.0.0.0:0 [281] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [281] Node 9.0.0.0:0 removed at time 281
+ 4.0.0.0:0 [281] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [281] Node 3.0.0.0:0 removed at time 281
+ 4.0.0.0:0 [281] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [281] Node 6.0.0.0:0 removed at time 281
+ 2.0.0.0:0 [281] Dropping 1 (Marked Dead by other node)
+ 2.0.0.0:0 [281] Node 1.0.0.0:0 removed at time 281
+ 2.0.0.0:0 [281] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [281] Node 5.0.0.0:0 removed at time 281
+ 7.0.0.0:0 [282] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [282] Node 3.0.0.0:0 removed at time 282
+ 7.0.0.0:0 [282] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [282] Node 9.0.0.0:0 removed at time 282
+ 3.0.0.0:0 [282] Dropping 9 (Marked Dead by other node)
+ 3.0.0.0:0 [282] Node 9.0.0.0:0 removed at time 282
+ 10.0.0.0:0 [283] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [283] Node 6.0.0.0:0 removed at time 283
+ 7.0.0.0:0 [283] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [283] Node 3.0.0.0:0 removed at time 283
+ 7.0.0.0:0 [283] Dropping 5 (Marked Dead by other node)
+ 7.0.0.0:0 [283] Node 5.0.0.0:0 removed at time 283
+ 7.0.0.0:0 [283] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [283] Node 6.0.0.0:0 removed at time 283
+ 7.0.0.0:0 [283] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [283] Node 9.0.0.0:0 removed at time 283
+ 2.0.0.0:0 [283] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [283] Node 5.0.0.0:0 removed at time 283
+ 2.0.0.0:0 [283] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [283] Node 6.0.0.0:0 removed at time 283
+ 10.0.0.0:0 [284] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [284] Node 6.0.0.0:0 removed at time 284
+ 10.0.0.0:0 [284] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [284] Node 9.0.0.0:0 removed at time 284
+ 10.0.0.0:0 [284] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [284] Node 3.0.0.0:0 removed at time 284
+ 7.0.0.0:0 [284] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [284] Node 3.0.0.0:0 removed at time 284
+ 7.0.0.0:0 [284] Dropping 6 (Marked Dead by other node)
+ 7.0.0.0:0 [284] Node 6.0.0.0:0 removed at time 284
+ 7.0.0.0:0 [284] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [284] Node 9.0.0.0:0 removed at time 284
+ 2.0.0.0:0 [284] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [284] Node 5.0.0.0:0 removed at time 284
+ 4.0.0.0:0 [285] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [285] Node 3.0.0.0:0 removed at time 285
+ 4.0.0.0:0 [285] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [285] Node 5.0.0.0:0 removed at time 285
+ 4.0.0.0:0 [285] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [285] Node 6.0.0.0:0 removed at time 285
+ 10.0.0.0:0 [286] Dropping 9 (Marked Dead by other node)
+ 10.0.0.0:0 [286] Node 9.0.0.0:0 removed at time 286
+ 9.0.0.0:0 [286] Node 1.0.0.0:0 joined at time 286
+ 9.0.0.0:0 [286] Node 6.0.0.0:0 joined at time 286
+ 4.0.0.0:0 [286] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [286] Node 5.0.0.0:0 removed at time 286
+ 4.0.0.0:0 [286] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [286] Node 6.0.0.0:0 removed at time 286
+ 1.0.0.0:0 [286] Dropping Node 7 (dead locally).
+ 1.0.0.0:0 [286] Node 7.0.0.0:0 removed at time 286
+ 10.0.0.0:0 [287] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [287] Node 7.0.0.0:0 removed at time 287
+ 10.0.0.0:0 [287] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [287] Node 7.0.0.0:0 removed at time 287
+ 9.0.0.0:0 [287] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [287] Node 3.0.0.0:0 removed at time 287
+ 9.0.0.0:0 [287] Dropping 6 (Marked Dead by other node)
+ 9.0.0.0:0 [287] Node 6.0.0.0:0 removed at time 287
+ 7.0.0.0:0 [287] Dropping 9 (Marked Dead by other node)
+ 7.0.0.0:0 [287] Node 9.0.0.0:0 removed at time 287
+ 4.0.0.0:0 [287] Dropping 3 (Marked Dead by other node)
+ 4.0.0.0:0 [287] Node 3.0.0.0:0 removed at time 287
+ 4.0.0.0:0 [287] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [287] Node 6.0.0.0:0 removed at time 287
+ 10.0.0.0:0 [288] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [288] Node 6.0.0.0:0 removed at time 288
+ 9.0.0.0:0 [288] Dropping Node 4 (dead locally).
+ 9.0.0.0:0 [288] Node 4.0.0.0:0 removed at time 288
+ 7.0.0.0:0 [288] Dropping 3 (Marked Dead by other node)
+ 7.0.0.0:0 [288] Node 3.0.0.0:0 removed at time 288
+ 4.0.0.0:0 [288] Dropping 7 (Marked Dead by other node)
+ 4.0.0.0:0 [288] Node 7.0.0.0:0 removed at time 288
+ 2.0.0.0:0 [288] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [288] Node 7.0.0.0:0 removed at time 288
+ 2.0.0.0:0 [288] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [288] Node 3.0.0.0:0 removed at time 288
+ 2.0.0.0:0 [288] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [288] Node 5.0.0.0:0 removed at time 288
+ 2.0.0.0:0 [288] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [288] Node 6.0.0.0:0 removed at time 288
+ 2.0.0.0:0 [288] Dropping 9 (Marked Dead by other node)
+ 2.0.0.0:0 [288] Node 9.0.0.0:0 removed at time 288
+ 10.0.0.0:0 [289] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [289] Node 6.0.0.0:0 removed at time 289
+ 10.0.0.0:0 [289] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [289] Node 7.0.0.0:0 removed at time 289
+ 9.0.0.0:0 [289] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [289] Node 3.0.0.0:0 removed at time 289
+ 7.0.0.0:0 [289] Dropping 4 (Marked Dead by other node)
+ 7.0.0.0:0 [289] Node 4.0.0.0:0 removed at time 289
+ 2.0.0.0:0 [289] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [289] Node 3.0.0.0:0 removed at time 289
+ 2.0.0.0:0 [289] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [289] Node 5.0.0.0:0 removed at time 289
+ 2.0.0.0:0 [289] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [289] Node 6.0.0.0:0 removed at time 289
+ 2.0.0.0:0 [289] Dropping 4 (Marked Dead by other node)
+ 2.0.0.0:0 [289] Node 4.0.0.0:0 removed at time 289
+ 10.0.0.0:0 [290] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [290] Node 4.0.0.0:0 removed at time 290
+ 10.0.0.0:0 [290] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [290] Node 6.0.0.0:0 removed at time 290
+ 6.0.0.0:0 [290] Dropping 7 (Marked Dead by other node)
+ 6.0.0.0:0 [290] Node 7.0.0.0:0 removed at time 290
+ 4.0.0.0:0 [290] Dropping 7 (Marked Dead by other node)
+ 4.0.0.0:0 [290] Node 7.0.0.0:0 removed at time 290
+ 2.0.0.0:0 [290] Dropping 4 (Marked Dead by other node)
+ 2.0.0.0:0 [290] Node 4.0.0.0:0 removed at time 290
+ 2.0.0.0:0 [290] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [290] Node 5.0.0.0:0 removed at time 290
+ 2.0.0.0:0 [290] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [290] Node 6.0.0.0:0 removed at time 290
+ 9.0.0.0:0 [291] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [291] Node 3.0.0.0:0 removed at time 291
+ 9.0.0.0:0 [291] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [291] Node 3.0.0.0:0 removed at time 291
+ 3.0.0.0:0 [291] Dropping 4 (Marked Dead by other node)
+ 3.0.0.0:0 [291] Node 4.0.0.0:0 removed at time 291
+ 3.0.0.0:0 [291] Node 1.0.0.0:0 joined at time 291
+ 2.0.0.0:0 [291] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [291] Node 7.0.0.0:0 removed at time 291
+ 2.0.0.0:0 [291] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [291] Node 6.0.0.0:0 removed at time 291
+ 10.0.0.0:0 [292] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [292] Node 4.0.0.0:0 removed at time 292
+ 10.0.0.0:0 [292] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [292] Node 6.0.0.0:0 removed at time 292
+ 9.0.0.0:0 [292] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [292] Node 3.0.0.0:0 removed at time 292
+ 10.0.0.0:0 [293] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [293] Node 3.0.0.0:0 removed at time 293
+ 9.0.0.0:0 [293] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [293] Node 3.0.0.0:0 removed at time 293
+ 9.0.0.0:0 [293] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [293] Node 7.0.0.0:0 removed at time 293
+ 2.0.0.0:0 [293] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [293] Node 7.0.0.0:0 removed at time 293
+ 2.0.0.0:0 [293] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [293] Node 5.0.0.0:0 removed at time 293
+ 2.0.0.0:0 [293] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [293] Node 6.0.0.0:0 removed at time 293
+ 1.0.0.0:0 [293] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [293] Node 4.0.0.0:0 removed at time 293
+ 10.0.0.0:0 [294] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [294] Node 4.0.0.0:0 removed at time 294
+ 10.0.0.0:0 [294] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [294] Node 6.0.0.0:0 removed at time 294
+ 10.0.0.0:0 [294] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [294] Node 4.0.0.0:0 removed at time 294
+ 9.0.0.0:0 [294] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [294] Node 3.0.0.0:0 removed at time 294
+ 9.0.0.0:0 [294] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [294] Node 7.0.0.0:0 removed at time 294
+ 2.0.0.0:0 [294] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [294] Node 7.0.0.0:0 removed at time 294
+ 2.0.0.0:0 [294] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [294] Node 5.0.0.0:0 removed at time 294
+ 2.0.0.0:0 [294] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [294] Node 6.0.0.0:0 removed at time 294
+ 10.0.0.0:0 [295] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [295] Node 3.0.0.0:0 removed at time 295
+ 10.0.0.0:0 [295] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [295] Node 4.0.0.0:0 removed at time 295
+ 10.0.0.0:0 [295] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [295] Node 6.0.0.0:0 removed at time 295
+ 9.0.0.0:0 [295] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [295] Node 3.0.0.0:0 removed at time 295
+ 5.0.0.0:0 [295] Dropping 7 (Marked Dead by other node)
+ 5.0.0.0:0 [295] Node 7.0.0.0:0 removed at time 295
+ 3.0.0.0:0 [295] Dropping 7 (Marked Dead by other node)
+ 3.0.0.0:0 [295] Node 7.0.0.0:0 removed at time 295
+ 2.0.0.0:0 [295] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [295] Node 5.0.0.0:0 removed at time 295
+ 2.0.0.0:0 [295] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [295] Node 7.0.0.0:0 removed at time 295
+ 1.0.0.0:0 [295] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [295] Node 4.0.0.0:0 removed at time 295
+ 10.0.0.0:0 [296] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [296] Node 3.0.0.0:0 removed at time 296
+ 9.0.0.0:0 [296] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [296] Node 7.0.0.0:0 removed at time 296
+ 5.0.0.0:0 [296] Dropping 4 (Marked Dead by other node)
+ 5.0.0.0:0 [296] Node 4.0.0.0:0 removed at time 296
+ 5.0.0.0:0 [296] Node 9.0.0.0:0 joined at time 296
+ 2.0.0.0:0 [296] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [296] Node 5.0.0.0:0 removed at time 296
+ 2.0.0.0:0 [296] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [296] Node 6.0.0.0:0 removed at time 296
+ 10.0.0.0:0 [297] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [297] Node 4.0.0.0:0 removed at time 297
+ 9.0.0.0:0 [297] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [297] Node 5.0.0.0:0 removed at time 297
+ 2.0.0.0:0 [297] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [297] Node 7.0.0.0:0 removed at time 297
+ 2.0.0.0:0 [297] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [297] Node 3.0.0.0:0 removed at time 297
+ 2.0.0.0:0 [297] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [297] Node 6.0.0.0:0 removed at time 297
+ 1.0.0.0:0 [297] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [297] Node 3.0.0.0:0 removed at time 297
+ 10.0.0.0:0 [298] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [298] Node 5.0.0.0:0 removed at time 298
+ 10.0.0.0:0 [298] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [298] Node 6.0.0.0:0 removed at time 298
+ 9.0.0.0:0 [298] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [298] Node 7.0.0.0:0 removed at time 298
+ 9.0.0.0:0 [298] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [298] Node 5.0.0.0:0 removed at time 298
+ 5.0.0.0:0 [298] Dropping 4 (Marked Dead by other node)
+ 5.0.0.0:0 [298] Node 4.0.0.0:0 removed at time 298
+ 1.0.0.0:0 [298] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [298] Node 4.0.0.0:0 removed at time 298
+ 1.0.0.0:0 [298] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [298] Node 4.0.0.0:0 removed at time 298
+ 10.0.0.0:0 [299] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [299] Node 5.0.0.0:0 removed at time 299
+ 10.0.0.0:0 [299] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [299] Node 6.0.0.0:0 removed at time 299
+ 10.0.0.0:0 [299] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [299] Node 5.0.0.0:0 removed at time 299
+ 10.0.0.0:0 [299] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [299] Node 7.0.0.0:0 removed at time 299
+ 10.0.0.0:0 [299] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [299] Node 4.0.0.0:0 removed at time 299
+ 9.0.0.0:0 [299] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [299] Node 3.0.0.0:0 removed at time 299
+ 6.0.0.0:0 [299] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [299] Node 4.0.0.0:0 removed at time 299
+ 2.0.0.0:0 [299] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [299] Node 7.0.0.0:0 removed at time 299
+ 2.0.0.0:0 [299] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [299] Node 6.0.0.0:0 removed at time 299
+ 1.0.0.0:0 [299] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [299] Node 3.0.0.0:0 removed at time 299
+ 10.0.0.0:0 [300] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [300] Node 4.0.0.0:0 removed at time 300
+ 10.0.0.0:0 [300] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [300] Node 3.0.0.0:0 removed at time 300
+ 9.0.0.0:0 [300] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [300] Node 7.0.0.0:0 removed at time 300
+ 9.0.0.0:0 [300] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [300] Node 3.0.0.0:0 removed at time 300
+ 2.0.0.0:0 [300] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [300] Node 3.0.0.0:0 removed at time 300
+ 2.0.0.0:0 [300] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [300] Node 6.0.0.0:0 removed at time 300
+ 9.0.0.0:0 [301] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [301] Node 7.0.0.0:0 removed at time 301
+ 9.0.0.0:0 [301] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [301] Node 3.0.0.0:0 removed at time 301
+ 2.0.0.0:0 [301] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [301] Node 7.0.0.0:0 removed at time 301
+ 9.0.0.0:0 [302] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [302] Node 7.0.0.0:0 removed at time 302
+ 9.0.0.0:0 [302] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [302] Node 5.0.0.0:0 removed at time 302
+ 9.0.0.0:0 [302] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [302] Node 7.0.0.0:0 removed at time 302
+ 9.0.0.0:0 [302] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [302] Node 7.0.0.0:0 removed at time 302
+ 5.0.0.0:0 [302] Dropping 4 (Marked Dead by other node)
+ 5.0.0.0:0 [302] Node 4.0.0.0:0 removed at time 302
+ 10.0.0.0:0 [303] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [303] Node 3.0.0.0:0 removed at time 303
+ 10.0.0.0:0 [303] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [303] Node 5.0.0.0:0 removed at time 303
+ 10.0.0.0:0 [303] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [303] Node 6.0.0.0:0 removed at time 303
+ 10.0.0.0:0 [303] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [303] Node 4.0.0.0:0 removed at time 303
+ 10.0.0.0:0 [303] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [303] Node 4.0.0.0:0 removed at time 303
+ 5.0.0.0:0 [303] Dropping 4 (Marked Dead by other node)
+ 5.0.0.0:0 [303] Node 4.0.0.0:0 removed at time 303
+ 2.0.0.0:0 [303] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [303] Node 5.0.0.0:0 removed at time 303
+ 2.0.0.0:0 [303] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [303] Node 7.0.0.0:0 removed at time 303
+ 1.0.0.0:0 [303] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [303] Node 4.0.0.0:0 removed at time 303
+ 10.0.0.0:0 [304] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [304] Node 4.0.0.0:0 removed at time 304
+ 10.0.0.0:0 [304] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [304] Node 6.0.0.0:0 removed at time 304
+ 9.0.0.0:0 [304] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [304] Node 3.0.0.0:0 removed at time 304
+ 9.0.0.0:0 [304] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [304] Node 7.0.0.0:0 removed at time 304
+ 9.0.0.0:0 [304] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [304] Node 5.0.0.0:0 removed at time 304
+ 3.0.0.0:0 [304] ? Timed out ping to 1, trying via 9
+ 2.0.0.0:0 [304] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [304] Node 3.0.0.0:0 removed at time 304
+ 2.0.0.0:0 [304] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [304] Node 6.0.0.0:0 removed at time 304
+ 2.0.0.0:0 [304] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [304] Node 7.0.0.0:0 removed at time 304
+ 10.0.0.0:0 [305] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [305] Node 5.0.0.0:0 removed at time 305
+ 10.0.0.0:0 [305] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [305] Node 6.0.0.0:0 removed at time 305
+ 9.0.0.0:0 [305] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [305] Node 7.0.0.0:0 removed at time 305
+ 9.0.0.0:0 [305] > Fwd Indirect Ping 3:0->1:0
+ 10.0.0.0:0 [306] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [306] Node 4.0.0.0:0 removed at time 306
+ 10.0.0.0:0 [306] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [306] Node 4.0.0.0:0 removed at time 306
+ 9.0.0.0:0 [306] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [306] Node 3.0.0.0:0 removed at time 306
+ 9.0.0.0:0 [306] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [306] Node 5.0.0.0:0 removed at time 306
+ 9.0.0.0:0 [306] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [306] Node 7.0.0.0:0 removed at time 306
+ 5.0.0.0:0 [306] Node 3.0.0.0:0 joined at time 306
+ 4.0.0.0:0 [306] Dropping 5 (Marked Dead by other node)
+ 4.0.0.0:0 [306] Node 5.0.0.0:0 removed at time 306
+ 1.0.0.0:0 [306] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [306] Node 4.0.0.0:0 removed at time 306
+ 10.0.0.0:0 [307] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [307] Node 5.0.0.0:0 removed at time 307
+ 10.0.0.0:0 [307] Dropping 6 (Marked Dead by other node)
+ 10.0.0.0:0 [307] Node 6.0.0.0:0 removed at time 307
+ 10.0.0.0:0 [307] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [307] Node 4.0.0.0:0 removed at time 307
+ 9.0.0.0:0 [307] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [307] Node 7.0.0.0:0 removed at time 307
+ 9.0.0.0:0 [307] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [307] Node 3.0.0.0:0 removed at time 307
+ 9.0.0.0:0 [307] < Fwd Indirect Pong 1:0->3:0
+ 1.0.0.0:0 [307] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [307] Node 3.0.0.0:0 removed at time 307
+ 9.0.0.0:0 [308] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [308] Node 7.0.0.0:0 removed at time 308
+ 9.0.0.0:0 [308] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [308] Node 3.0.0.0:0 removed at time 308
+ 9.0.0.0:0 [308] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [308] Node 7.0.0.0:0 removed at time 308
+ 9.0.0.0:0 [308] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [308] Node 3.0.0.0:0 removed at time 308
+ 9.0.0.0:0 [308] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [308] Node 5.0.0.0:0 removed at time 308
+ 5.0.0.0:0 [308] Dropping 3 (Marked Dead by other node)
+ 5.0.0.0:0 [308] Node 3.0.0.0:0 removed at time 308
+ 2.0.0.0:0 [308] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [308] Node 3.0.0.0:0 removed at time 308
+ 1.0.0.0:0 [308] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [308] Node 4.0.0.0:0 removed at time 308
+ 10.0.0.0:0 [309] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [309] Node 4.0.0.0:0 removed at time 309
+ 4.0.0.0:0 [309] Dropping 6 (Marked Dead by other node)
+ 4.0.0.0:0 [309] Node 6.0.0.0:0 removed at time 309
+ 9.0.0.0:0 [310] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [310] Node 3.0.0.0:0 removed at time 310
+ 9.0.0.0:0 [310] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [310] Node 7.0.0.0:0 removed at time 310
+ 9.0.0.0:0 [310] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [310] Node 5.0.0.0:0 removed at time 310
+ 9.0.0.0:0 [310] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [310] Node 7.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 5.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 6.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 7.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 4 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 4.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 5.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 6 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 6.0.0.0:0 removed at time 310
+ 2.0.0.0:0 [310] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [310] Node 7.0.0.0:0 removed at time 310
+ 1.0.0.0:0 [310] Node 7.0.0.0:0 joined at time 310
+ 10.0.0.0:0 [311] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [311] Node 4.0.0.0:0 removed at time 311
+ 10.0.0.0:0 [311] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [311] Node 3.0.0.0:0 removed at time 311
+ 10.0.0.0:0 [311] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [311] Node 5.0.0.0:0 removed at time 311
+ 10.0.0.0:0 [311] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [311] Node 4.0.0.0:0 removed at time 311
+ 9.0.0.0:0 [311] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [311] Node 3.0.0.0:0 removed at time 311
+ 9.0.0.0:0 [311] Node 4.0.0.0:0 joined at time 311
+ 9.0.0.0:0 [311] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [311] Node 7.0.0.0:0 removed at time 311
+ 9.0.0.0:0 [311] Dropping 4 (Marked Dead by other node)
+ 9.0.0.0:0 [311] Node 4.0.0.0:0 removed at time 311
+ 2.0.0.0:0 [311] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [311] Node 7.0.0.0:0 removed at time 311
+ 1.0.0.0:0 [311] Dropping 7 (Marked Dead by other node)
+ 1.0.0.0:0 [311] Node 7.0.0.0:0 removed at time 311
+ 10.0.0.0:0 [312] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [312] Node 5.0.0.0:0 removed at time 312
+ 6.0.0.0:0 [312] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [312] Node 4.0.0.0:0 removed at time 312
+ 2.0.0.0:0 [312] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [312] Node 3.0.0.0:0 removed at time 312
+ 1.0.0.0:0 [312] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [312] Node 3.0.0.0:0 removed at time 312
+ 10.0.0.0:0 [313] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [313] Node 5.0.0.0:0 removed at time 313
+ 9.0.0.0:0 [313] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [313] Node 7.0.0.0:0 removed at time 313
+ 9.0.0.0:0 [313] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [313] Node 3.0.0.0:0 removed at time 313
+ 9.0.0.0:0 [313] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [313] Node 3.0.0.0:0 removed at time 313
+ 9.0.0.0:0 [313] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [313] Node 5.0.0.0:0 removed at time 313
+ 2.0.0.0:0 [313] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [313] Node 5.0.0.0:0 removed at time 313
+ 2.0.0.0:0 [313] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [313] Node 3.0.0.0:0 removed at time 313
+ 10.0.0.0:0 [314] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [314] Node 7.0.0.0:0 removed at time 314
+ 10.0.0.0:0 [314] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [314] Node 4.0.0.0:0 removed at time 314
+ 9.0.0.0:0 [314] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [314] Node 7.0.0.0:0 removed at time 314
+ 6.0.0.0:0 [314] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [314] Node 4.0.0.0:0 removed at time 314
+ 6.0.0.0:0 [314] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [314] Node 4.0.0.0:0 removed at time 314
+ 1.0.0.0:0 [314] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [314] Node 3.0.0.0:0 removed at time 314
+ 10.0.0.0:0 [315] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [315] Node 5.0.0.0:0 removed at time 315
+ 10.0.0.0:0 [315] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [315] Node 3.0.0.0:0 removed at time 315
+ 10.0.0.0:0 [315] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [315] Node 4.0.0.0:0 removed at time 315
+ 9.0.0.0:0 [315] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [315] Node 7.0.0.0:0 removed at time 315
+ 2.0.0.0:0 [315] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [315] Node 3.0.0.0:0 removed at time 315
+ 2.0.0.0:0 [315] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [315] Node 7.0.0.0:0 removed at time 315
+ 1.0.0.0:0 [315] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [315] Node 4.0.0.0:0 removed at time 315
+ 10.0.0.0:0 [316] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [316] Node 4.0.0.0:0 removed at time 316
+ 9.0.0.0:0 [316] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [316] Node 3.0.0.0:0 removed at time 316
+ 9.0.0.0:0 [316] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [316] Node 5.0.0.0:0 removed at time 316
+ 9.0.0.0:0 [316] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [316] Node 7.0.0.0:0 removed at time 316
+ 10.0.0.0:0 [317] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [317] Node 5.0.0.0:0 removed at time 317
+ 9.0.0.0:0 [317] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [317] Node 3.0.0.0:0 removed at time 317
+ 9.0.0.0:0 [317] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [317] Node 7.0.0.0:0 removed at time 317
+ 6.0.0.0:0 [317] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [317] Node 4.0.0.0:0 removed at time 317
+ 2.0.0.0:0 [317] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [317] Node 3.0.0.0:0 removed at time 317
+ 9.0.0.0:0 [318] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [318] Node 7.0.0.0:0 removed at time 318
+ 9.0.0.0:0 [318] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [318] Node 3.0.0.0:0 removed at time 318
+ 6.0.0.0:0 [318] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [318] Node 4.0.0.0:0 removed at time 318
+ 2.0.0.0:0 [318] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [318] Node 5.0.0.0:0 removed at time 318
+ 2.0.0.0:0 [318] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [318] Node 7.0.0.0:0 removed at time 318
+ 1.0.0.0:0 [318] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [318] Node 3.0.0.0:0 removed at time 318
+ 1.0.0.0:0 [318] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [318] Node 4.0.0.0:0 removed at time 318
+ 10.0.0.0:0 [319] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [319] Node 4.0.0.0:0 removed at time 319
+ 10.0.0.0:0 [319] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [319] Node 5.0.0.0:0 removed at time 319
+ 10.0.0.0:0 [319] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [319] Node 4.0.0.0:0 removed at time 319
+ 10.0.0.0:0 [319] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [319] Node 7.0.0.0:0 removed at time 319
+ 9.0.0.0:0 [319] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [319] Node 3.0.0.0:0 removed at time 319
+ 2.0.0.0:0 [319] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [319] Node 7.0.0.0:0 removed at time 319
+ 1.0.0.0:0 [319] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [319] Node 3.0.0.0:0 removed at time 319
+ 10.0.0.0:0 [320] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [320] Node 4.0.0.0:0 removed at time 320
+ 9.0.0.0:0 [320] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [320] Node 3.0.0.0:0 removed at time 320
+ 9.0.0.0:0 [320] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [320] Node 5.0.0.0:0 removed at time 320
+ 9.0.0.0:0 [320] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [320] Node 7.0.0.0:0 removed at time 320
+ 10.0.0.0:0 [321] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [321] Node 4.0.0.0:0 removed at time 321
+ 10.0.0.0:0 [321] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [321] Node 5.0.0.0:0 removed at time 321
+ 9.0.0.0:0 [321] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [321] Node 3.0.0.0:0 removed at time 321
+ 9.0.0.0:0 [321] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [321] Node 5.0.0.0:0 removed at time 321
+ 9.0.0.0:0 [321] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [321] Node 7.0.0.0:0 removed at time 321
+ 6.0.0.0:0 [321] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [321] Node 4.0.0.0:0 removed at time 321
+ 1.0.0.0:0 [321] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [321] Node 3.0.0.0:0 removed at time 321
+ 1.0.0.0:0 [321] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [321] Node 4.0.0.0:0 removed at time 321
+ 10.0.0.0:0 [322] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [322] Node 7.0.0.0:0 removed at time 322
+ 10.0.0.0:0 [322] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [322] Node 4.0.0.0:0 removed at time 322
+ 2.0.0.0:0 [322] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [322] Node 3.0.0.0:0 removed at time 322
+ 2.0.0.0:0 [322] Dropping 5 (Marked Dead by other node)
+ 2.0.0.0:0 [322] Node 5.0.0.0:0 removed at time 322
+ 9.0.0.0:0 [323] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [323] Node 7.0.0.0:0 removed at time 323
+ 9.0.0.0:0 [323] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [323] Node 3.0.0.0:0 removed at time 323
+ 6.0.0.0:0 [323] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [323] Node 4.0.0.0:0 removed at time 323
+ 2.0.0.0:0 [323] Dropping 4 (Marked Dead by other node)
+ 2.0.0.0:0 [323] Node 4.0.0.0:0 removed at time 323
+ 2.0.0.0:0 [323] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [323] Node 3.0.0.0:0 removed at time 323
+ 1.0.0.0:0 [323] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [323] Node 4.0.0.0:0 removed at time 323
+ 10.0.0.0:0 [324] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [324] Node 4.0.0.0:0 removed at time 324
+ 10.0.0.0:0 [324] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [324] Node 4.0.0.0:0 removed at time 324
+ 10.0.0.0:0 [324] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [324] Node 4.0.0.0:0 removed at time 324
+ 9.0.0.0:0 [324] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [324] Node 7.0.0.0:0 removed at time 324
+ 9.0.0.0:0 [324] Dropping 5 (Marked Dead by other node)
+ 9.0.0.0:0 [324] Node 5.0.0.0:0 removed at time 324
+ 9.0.0.0:0 [324] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [324] Node 3.0.0.0:0 removed at time 324
+ 2.0.0.0:0 [324] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [324] Node 3.0.0.0:0 removed at time 324
+ 2.0.0.0:0 [324] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [324] Node 7.0.0.0:0 removed at time 324
+ 10.0.0.0:0 [325] Dropping 5 (Marked Dead by other node)
+ 10.0.0.0:0 [325] Node 5.0.0.0:0 removed at time 325
+ 10.0.0.0:0 [325] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [325] Node 7.0.0.0:0 removed at time 325
+ 10.0.0.0:0 [325] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [325] Node 4.0.0.0:0 removed at time 325
+ 6.0.0.0:0 [325] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [325] Node 4.0.0.0:0 removed at time 325
+ 2.0.0.0:0 [325] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [325] Node 7.0.0.0:0 removed at time 325
+ 10.0.0.0:0 [326] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [326] Node 3.0.0.0:0 removed at time 326
+ 10.0.0.0:0 [326] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [326] Node 4.0.0.0:0 removed at time 326
+ 9.0.0.0:0 [326] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [326] Node 7.0.0.0:0 removed at time 326
+ 9.0.0.0:0 [326] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [326] Node 7.0.0.0:0 removed at time 326
+ 2.0.0.0:0 [326] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [326] Node 3.0.0.0:0 removed at time 326
+ 6.0.0.0:0 [327] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [327] Node 4.0.0.0:0 removed at time 327
+ 2.0.0.0:0 [327] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [327] Node 7.0.0.0:0 removed at time 327
+ 2.0.0.0:0 [327] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [327] Node 3.0.0.0:0 removed at time 327
+ 2.0.0.0:0 [327] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [327] Node 7.0.0.0:0 removed at time 327
+ 1.0.0.0:0 [327] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [327] Node 3.0.0.0:0 removed at time 327
+ 1.0.0.0:0 [327] Dropping 4 (Marked Dead by other node)
+ 1.0.0.0:0 [327] Node 4.0.0.0:0 removed at time 327
+ 10.0.0.0:0 [328] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [328] Node 4.0.0.0:0 removed at time 328
+ 10.0.0.0:0 [328] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [328] Node 3.0.0.0:0 removed at time 328
+ 10.0.0.0:0 [328] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [328] Node 7.0.0.0:0 removed at time 328
+ 9.0.0.0:0 [328] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [328] Node 3.0.0.0:0 removed at time 328
+ 9.0.0.0:0 [328] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [328] Node 7.0.0.0:0 removed at time 328
+ 2.0.0.0:0 [328] Dropping 4 (Marked Dead by other node)
+ 2.0.0.0:0 [328] Node 4.0.0.0:0 removed at time 328
+ 9.0.0.0:0 [329] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [329] Node 3.0.0.0:0 removed at time 329
+ 6.0.0.0:0 [329] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [329] Node 4.0.0.0:0 removed at time 329
+ 2.0.0.0:0 [329] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [329] Node 7.0.0.0:0 removed at time 329
+ 2.0.0.0:0 [329] Dropping 4 (Marked Dead by other node)
+ 2.0.0.0:0 [329] Node 4.0.0.0:0 removed at time 329
+ 10.0.0.0:0 [330] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [330] Node 4.0.0.0:0 removed at time 330
+ 10.0.0.0:0 [330] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [330] Node 4.0.0.0:0 removed at time 330
+ 9.0.0.0:0 [330] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [330] Node 3.0.0.0:0 removed at time 330
+ 9.0.0.0:0 [330] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [330] Node 7.0.0.0:0 removed at time 330
+ 2.0.0.0:0 [330] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [330] Node 3.0.0.0:0 removed at time 330
+ 2.0.0.0:0 [330] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [330] Node 7.0.0.0:0 removed at time 330
+ 10.0.0.0:0 [331] Dropping 7 (Marked Dead by other node)
+ 10.0.0.0:0 [331] Node 7.0.0.0:0 removed at time 331
+ 9.0.0.0:0 [331] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [331] Node 7.0.0.0:0 removed at time 331
+ 6.0.0.0:0 [331] Dropping 4 (Marked Dead by other node)
+ 6.0.0.0:0 [331] Node 4.0.0.0:0 removed at time 331
+ 1.0.0.0:0 [331] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [331] Node 3.0.0.0:0 removed at time 331
+ 10.0.0.0:0 [332] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [332] Node 3.0.0.0:0 removed at time 332
+ 10.0.0.0:0 [332] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [332] Node 4.0.0.0:0 removed at time 332
+ 9.0.0.0:0 [332] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [332] Node 7.0.0.0:0 removed at time 332
+ 10.0.0.0:0 [333] Dropping 4 (Marked Dead by other node)
+ 10.0.0.0:0 [333] Node 4.0.0.0:0 removed at time 333
+ 9.0.0.0:0 [333] Dropping 7 (Marked Dead by other node)
+ 9.0.0.0:0 [333] Node 7.0.0.0:0 removed at time 333
+ 2.0.0.0:0 [333] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [333] Node 3.0.0.0:0 removed at time 333
+ 2.0.0.0:0 [333] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [333] Node 7.0.0.0:0 removed at time 333
+ 1.0.0.0:0 [333] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [333] Node 3.0.0.0:0 removed at time 333
+ 10.0.0.0:0 [334] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [334] Node 3.0.0.0:0 removed at time 334
+ 2.0.0.0:0 [334] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [334] Node 3.0.0.0:0 removed at time 334
+ 2.0.0.0:0 [334] Dropping 7 (Marked Dead by other node)
+ 2.0.0.0:0 [334] Node 7.0.0.0:0 removed at time 334
+ 1.0.0.0:0 [335] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [335] Node 3.0.0.0:0 removed at time 335
+ 9.0.0.0:0 [336] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [336] Node 3.0.0.0:0 removed at time 336
+ 2.0.0.0:0 [337] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [337] Node 3.0.0.0:0 removed at time 337
+ 1.0.0.0:0 [337] Node 7.0.0.0:0 joined at time 337
+ 9.0.0.0:0 [338] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [338] Node 3.0.0.0:0 removed at time 338
+ 10.0.0.0:0 [339] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [339] Node 3.0.0.0:0 removed at time 339
+ 10.0.0.0:0 [340] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [340] Node 3.0.0.0:0 removed at time 340
+ 1.0.0.0:0 [340] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [340] Node 3.0.0.0:0 removed at time 340
+ 10.0.0.0:0 [341] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [341] Node 3.0.0.0:0 removed at time 341
+ 10.0.0.0:0 [342] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [342] Node 3.0.0.0:0 removed at time 342
+ 1.0.0.0:0 [343] Dropping 3 (Marked Dead by other node)
+ 1.0.0.0:0 [343] Node 3.0.0.0:0 removed at time 343
+ 9.0.0.0:0 [344] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [344] Node 3.0.0.0:0 removed at time 344
+ 9.0.0.0:0 [345] Dropping 3 (Marked Dead by other node)
+ 9.0.0.0:0 [345] Node 3.0.0.0:0 removed at time 345
+ 2.0.0.0:0 [345] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [345] Node 3.0.0.0:0 removed at time 345
+ 2.0.0.0:0 [346] Dropping 3 (Marked Dead by other node)
+ 2.0.0.0:0 [346] Node 3.0.0.0:0 removed at time 346
+ 10.0.0.0:0 [347] Dropping 3 (Marked Dead by other node)
+ 10.0.0.0:0 [347] Node 3.0.0.0:0 removed at time 347
+ 1.0.0.0:0 [500] @@time=500

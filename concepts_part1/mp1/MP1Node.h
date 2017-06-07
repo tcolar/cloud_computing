@@ -30,8 +30,8 @@
  */
 enum MsgTypes{
     JOINREQ,
-    JOINREP,
-    GOSSIP,
+    SWIMPING,
+    SWIMPONG,
     DUMMYLASTMSGTYPE
 };
 
@@ -51,7 +51,7 @@ typedef struct MessageHdr {
  */
 class MP1Node {
 private:
-        long myId;
+        int myId; // This Node's Id
 	EmulNet *emulNet;
 	Log *log;
 	Params *par;
@@ -72,20 +72,32 @@ public:
 	void nodeLoop();
 	void checkMessages();
 	bool recvCallBack(void *env, char *data, int size);
-        void recvJoinReq(char *payload);
-        void recvJoinRep(char *payload);
-        void recvGossip(char *payload);
-        long now();
-        bool isTfailed(vector<MemberListEntry>::iterator entry);
-        void dumpMem(char *pointer, int size);
-        void sendMembershipMsg(MsgTypes msgType, Address *from, Address *to);
 	void nodeLoopOps();
 	int isNullAddress(Address *addr);
 	Address getJoinAddress();
 	void initMemberListTable(Member *memberNode);
 	void printAddress(Address *addr);
 	virtual ~MP1Node();
+        
+        // added ---------------
+        
+        void addMember(Address *address);
+        void dumpMem(char *pointer, int size);
         Address makeAddress(int id, short port);
+        // Get Fresh(recent state change) membership data to be sent on swim msgs.
+        char* membershipData(); 
+        long now();
+        // Find a random node in mebership list, NULL if none available. 
+        int randomNode(int exclude1, int exclude2);
+        void recvJoinReq(char *payload);
+        void recvPing(char *payload);
+        void recvPong(char *payload);
+        // Handles membership data received from another node.
+        void recvMembershipData(char *payload);
+        // Update a member when we here from it(pong), update state & timestamp
+        void updateMember(Address *from);
+        // sends a swim message (ping from "from" to "to") via "via".
+        void swimMsg(MsgTypes type, Address *from, Address *to, Address *via);
 };
 
 #endif /* _MP1NODE_H_ */

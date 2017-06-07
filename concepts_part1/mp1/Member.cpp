@@ -55,6 +55,8 @@ MemberListEntry::MemberListEntry(const MemberListEntry &anotherMLE) {
 	this->id = anotherMLE.id;
 	this->port = anotherMLE.port;
 	this->timestamp = anotherMLE.timestamp;
+	this->state = anotherMLE.state;
+	this->stateTs = anotherMLE.stateTs;
 }
 
 /**
@@ -66,7 +68,9 @@ MemberListEntry& MemberListEntry::operator =(const MemberListEntry &anotherMLE) 
 	swap(id, temp.id);
 	swap(port, temp.port);
 	swap(timestamp, temp.timestamp);
-	return *this;
+	swap(state, temp.state);
+	swap(stateTs, temp.stateTs);
+        return *this;
 }
 
 /**
@@ -139,6 +143,14 @@ void MemberListEntry::setheartbeat(long hearbeat) {
  */
 void MemberListEntry::settimestamp(long timestamp) {
 	this->timestamp = timestamp;
+}
+
+void MemberListEntry::setState(SwimState state) {
+	this->state = state;
+}
+
+void MemberListEntry::setStateTs(long stateTs) {
+	this->stateTs = stateTs;
 }
 
 /**
