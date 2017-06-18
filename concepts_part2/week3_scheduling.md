@@ -27,7 +27,7 @@ Good for multi trenant system, all tenants/jobs get equal/fair share of cluster
 - Cluster divided in pools
 - Resources dictributed equally per pool
 - Each pool can use Fifo, or fair scheduling etc...
-- Preemption: If a job can't get resources for a while another job maybe preempted or even killed.
+- Preemption: If a job can't get resources for a while another job maybe preempted (here killed).
 - If kills, then pick a recently started task to minimize wasted work
 
 Good to run shorter tasks first, but difficult to estimate tasks length

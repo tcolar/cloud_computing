@@ -15,7 +15,10 @@ Components:
 
 Bolts can be filters, joins, transform etc ....
 
-Grouping strategies can be used: shuffled, fields, all (all bolts get all tuples)
+Grouping strategies can be used: 
+- shuffled -> Distributed evenly (round robin) 
+- fields -> roup by a subset of fields (ie: tweets starting with a-m)
+- all (all bolts get all tuples)
 
 Cluster:
 - Master node - Runs the Nimbus daemon :  distribute code, assign tasks, monitors

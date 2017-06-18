@@ -16,4 +16,6 @@ Degree distribution ->  probability of a node having k edges
 - Heavy tailed 
 - Power law : straght line (in log graph). ie : gnutella network
 
+Powr law is k-@. Most vertices low degrees, a few high degrees.
+
 Small world networks are not very resilient
