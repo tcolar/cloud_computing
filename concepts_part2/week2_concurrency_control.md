@@ -21,6 +21,8 @@ Client & Server might have different architectures (endianess), so the
 generated middleware uses a Common Data Representation (CDR) that
 are then Marshalled / Unmarshalled.
 
+Big Endian = Most significant byte first
+
 ## Transactions
 Set operations done atomically, either:
 - All operations are commited (success)
@@ -35,7 +37,7 @@ Typical model:
 ACID model
 - Atomicity
 - Consistency (State)
-- Isolation (Isolated from other transactions effects)
+- Isolation (Isolated from other transactions effects, appears af is executed seuqentially)
 - Durability
 
 Potential issues:

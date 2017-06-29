@@ -10,10 +10,12 @@ Components:
 - Tuples (key/value)
 - Streams (Sequence of tuples)
 - Spouts (Generates the tuple stream(s) from input data)
-- Bolts (Processes stream(s) and output some other(filtered) stream(s))
+- Bolts (Processes stream(s) and output some other(filtered) stream(s) of tuples)
 - Topologies (Connect bolts, ie: pass stream to bolt)
 
 Bolts can be filters, joins, transform etc ....
+
+Bolts & Spouts can execute many tasks
 
 Grouping strategies can be used: 
 - shuffled -> Distributed evenly (round robin) 

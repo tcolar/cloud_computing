@@ -33,12 +33,12 @@ Less bottleneck than a central server (not a single point of failure), but up to
 Safe both and ordered. 0(1) delay but 0(N) bandwidth.
 
 ## Maekawa's Algorithm 
-- Eachh process (p) is part of a voting set (V)
+- Each process (p) is part of a voting set (V)
 - Intersection of 2 voting sets must not be empty (~ quorum)
-- Number of voting sets (k) = sqrt(N)
+- Number of voting sets (k) >= sqrt(N)
 - Each process belongs to (m) voting sets = sqrt(N) -> k*m matrix
 
-- Eah process request permission from it's voting set only
+- Each process request permission from it's voting set only
 - Only one process per voting set has the permission 
 - Works similarely to Ricart-Agrawala otherwise.
 

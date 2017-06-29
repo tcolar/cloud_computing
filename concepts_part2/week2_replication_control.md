@@ -23,7 +23,10 @@ We want to ensure ALL servers commit the same value, or None (all aborted)
 "Atomic commit problem" ~= "consensus problem"
 
 2 phase commit:
-- Phase 1 : prepare
+- Phase 1 : prepare (save to disk for recovery , reply "ok")
 - Phase 2 : commit all (if all phase 1 where ok), otherwise abort all
+
+If we don't get ok from all servers for phase1, don't proceed to phase2
+In case og crash after phase1, the transaction was saved to disk, will be replayed upon recovery. 
 
 Can use Paxos

@@ -8,6 +8,14 @@ Vertices(nodes) + edges
 - Path Length -> avg path between nodes usually short
 - Small world network = high CC, short path
 
+- Extended ring -> high CC, long paths
+- Random Graph -> low CC, short paths
+- Small world -> high CC, Short paths
+
+When going from Extended to Random : CC dicreases slowly, then fast. Path length decreases quickly.
+
+Small world falls in the middle (once patgh length has dropped but not CC yet)
+
 Degreee = number of intermediate vortices in a path
 
 Degree distribution ->  probability of a node having k edges
