@@ -54,6 +54,14 @@ public:
 	}
 };
 
+// Local state of a memberListEntry
+enum SwimState{
+    STATE_OK, 
+    STATE_SUSPECTED, // suspected dead
+    STATE_DEAD, // dead -> will tell others and eventually drop from membership list.
+    DUMMYLASTSTATE
+};
+
 /**
  * CLASS NAME: MemberListEntry
  *
@@ -63,11 +71,14 @@ class MemberListEntry {
 public:
 	int id;
 	short port;
-	long heartbeat;
 	long timestamp;
+	long heartbeat;
+        SwimState state; // current state
+	long stateTs; // timestamp of latest state change
+	// Membership table
 	MemberListEntry(int id, short port, long heartbeat, long timestamp);
 	MemberListEntry(int id, short port);
-	MemberListEntry(): id(0), port(0), heartbeat(0), timestamp(0) {}
+	MemberListEntry(): id(0), port(0), heartbeat(0), timestamp(0), state(STATE_OK) {}
 	MemberListEntry(const MemberListEntry &anotherMLE);
 	MemberListEntry& operator =(const MemberListEntry &anotherMLE);
 	int getid();
@@ -78,6 +89,8 @@ public:
 	void setport(short port);
 	void setheartbeat(long hearbeat);
 	void settimestamp(long timestamp);
+	void setState(SwimState state);
+	void setStateTs(long stateTs);
 };
 
 /**
@@ -104,7 +117,7 @@ public:
 	int pingCounter;
 	// counter for ping timeout
 	int timeOutCounter;
-	// Membership table
+        // swim state
 	vector<MemberListEntry> memberList;
 	// My position in the membership table
 	vector<MemberListEntry>::iterator myPos;

@@ -30,7 +30,8 @@
  */
 enum MsgTypes{
     JOINREQ,
-    JOINREP,
+    SWIMPING,
+    SWIMPONG,
     DUMMYLASTMSGTYPE
 };
 
@@ -50,6 +51,7 @@ typedef struct MessageHdr {
  */
 class MP1Node {
 private:
+        int myId; // This Node's Id
 	EmulNet *emulNet;
 	Log *log;
 	Params *par;
@@ -76,6 +78,26 @@ public:
 	void initMemberListTable(Member *memberNode);
 	void printAddress(Address *addr);
 	virtual ~MP1Node();
+        
+        // added ---------------
+        
+        void addMember(Address *address);
+        void dumpMem(char *pointer, int size);
+        Address makeAddress(int id, short port);
+        // Get Fresh(recent state change) membership data to be sent on swim msgs.
+        char* membershipData(); 
+        long now();
+        // Find a random node in mebership list, NULL if none available. 
+        int randomNode(int exclude1, int exclude2);
+        void recvJoinReq(char *payload);
+        void recvPing(char *payload);
+        void recvPong(char *payload);
+        // Handles membership data received from another node.
+        void recvMembershipData(char *payload);
+        // Update a member when we here from it(pong), update state & timestamp
+        void updateMember(Address *from);
+        // sends a swim message (ping from "from" to "to") via "via".
+        void swimMsg(MsgTypes type, Address *from, Address *to, Address *via);
 };
 
 #endif /* _MP1NODE_H_ */
