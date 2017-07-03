@@ -19,6 +19,7 @@
 #include "Message.h"
 #include "Queue.h"
 
+
 /**
  * CLASS NAME: MP2Node
  *
@@ -47,6 +48,10 @@ private:
 	EmulNet * emulNet;
 	// Object of Log
 	Log * log;
+        // Transaction data
+        HashTable * trans;
+        // Transaction start time to keep track of timeouts
+        map<int, long> * transTimes;
 
 public:
 	MP2Node(Member *memberNode, Params *par, EmulNet *emulNet, Log *log, Address *addressOfMember);
@@ -88,6 +93,8 @@ public:
 	// stabilization protocol - handle multiple failures
 	void stabilizationProtocol();
 
+        long now();
+        
 	~MP2Node();
 };
 
