@@ -17,6 +17,7 @@ unzip mp2_assignment.zip || { echo 'ERROR ... Zip file not found' ; exit 1; }
 cd mp2_assignment
 cp ../../MP2Node.* .
 cp ../../MP1Node.* .
+cp ../../Member.* .
 make clean > /dev/null 2>&1
 make > /dev/null 2>&1 
 
