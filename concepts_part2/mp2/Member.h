@@ -78,7 +78,7 @@ public:
   MemberListEntry(int id, short port, long heartbeat, long timestamp);
   MemberListEntry(int id, short port);
   MemberListEntry()
-      : id(0), port(0), heartbeat(0), timestamp(0), state(STATE_OK) {}
+      : id(0), port(0), timestamp(0), heartbeat(0), state(STATE_OK) {}
   MemberListEntry(const MemberListEntry &anotherMLE);
   MemberListEntry &operator=(const MemberListEntry &anotherMLE);
   int getid();
