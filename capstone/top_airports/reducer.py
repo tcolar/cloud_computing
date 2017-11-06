@@ -3,7 +3,8 @@
 import sys
 
 map = {}
-for airport in sys.stdin.read().splitlines():
+for line in sys.stdin:
+	airport = line.split()[0]
 	if airport in map: 
 		map[airport]+=1
 	else:
