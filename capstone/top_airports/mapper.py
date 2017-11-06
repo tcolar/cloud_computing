@@ -7,4 +7,4 @@ for fields in csv.reader(iter(sys.stdin.readline, '')):
     origin = fields[6]
     dest = fields[14]
     print(origin)
-    print(dest)
+    print("{} 1".format(dest))
