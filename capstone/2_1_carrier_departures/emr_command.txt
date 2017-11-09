@@ -1,0 +1,1 @@
+hadoop-streaming -files s3://tcolartransportation/carrier_departures/delay_mapper.py,s3://tcolartransportation/carrier_departures/delay_reducer.py -mapper delay_mapper.py -reducer delay_reducer.py -input s3://tcolartransportation/gz/aviation/airline_ontime/ -output s3://tcolartransportation/results/carrier_departures/ -jobconf mapred.reduce.tasks=1
