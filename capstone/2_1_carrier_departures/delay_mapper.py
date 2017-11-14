@@ -4,7 +4,7 @@ import sys
 import csv
  
 for fields in csv.reader(iter(sys.stdin.readline, '')):
-    carrier = fields[6]
+    carrier = fields[8]
     origin = fields[11]
     delay = fields[25]
     if delay == 'DepDelay':
