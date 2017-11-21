@@ -1,0 +1,1 @@
+hadoop-streaming -files s3://tcolartransportation/mission_mapper.py,s3://tcolartransportation/mission_reducer.py -mapper mission_mapper.py -reducer mission_reducer.py -input s3://tcolartransportation/gz/aviation/2008/ -output s3://tcolartransportation/results/2day_trip/ -jobconf mapred.reduce.tasks=1
