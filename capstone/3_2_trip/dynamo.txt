@@ -1,0 +1,91 @@
+
+NOTE: Ended up not using this as it was way too slow
+
+-------------
+
+- Create a table called "trips" in Dynamo with key being "flight"
+- Srated an EMS cluster (m4.large single node)
+
+ssh -i ~/.ssh/tcolar-educate-3.pem hadoop@34.201.164.222
+Last login: Tue Nov 28 05:19:56 2017
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-ami/2017.09-release-notes/
+5 package(s) needed for security, out of 10 available
+Run "sudo yum update" to apply all updates.
+
+EEEEEEEEEEEEEEEEEEEE MMMMMMMM           MMMMMMMM RRRRRRRRRRRRRRR
+E::::::::::::::::::E M:::::::M         M:::::::M R::::::::::::::R
+EE:::::EEEEEEEEE:::E M::::::::M       M::::::::M R:::::RRRRRR:::::R
+  E::::E       EEEEE M:::::::::M     M:::::::::M RR::::R      R::::R
+  E::::E             M::::::M:::M   M:::M::::::M   R:::R      R::::R
+  E:::::EEEEEEEEEE   M:::::M M:::M M:::M M:::::M   R:::RRRRRR:::::R
+  E::::::::::::::E   M:::::M  M:::M:::M  M:::::M   R:::::::::::RR
+  E:::::EEEEEEEEEE   M:::::M   M:::::M   M:::::M   R:::RRRRRR::::R
+  E::::E             M:::::M    M:::M    M:::::M   R:::R      R::::R
+  E::::E       EEEEE M:::::M     MMM     M:::::M   R:::R      R::::R
+EE:::::EEEEEEEE::::E M:::::M             M:::::M   R:::R      R::::R
+E::::::::::::::::::E M:::::M             M:::::M RR::::R      R::::R
+EEEEEEEEEEEEEEEEEEEE MMMMMMM             MMMMMMM RRRRRRR      RRRRRR
+
+[hadoop@ip-172-30-4-37 ~]$ hive
+
+Logging initialized using configuration in file:/etc/hive/conf.dist/hive-log4j2.properties Async: false
+hive> CREATE EXTERNAL TABLE ddb_tbl_trips (
+    ampm STRING, 
+    origin STRING, 
+    dest STRING, 
+    carrier STRING, 
+    flight STRING,
+    day STRING,
+    hour BIGINT,
+    delay DOUBLE ) 
+  STORED BY 
+  'org.apache.hadoop.hive.dynamodb.DynamoDBStorageHandler' 
+  TBLPROPERTIES (
+    "dynamodb.table.name" = "trips",
+    "dynamodb.column.mapping" = 
+   "ampm:ampm,origin:origin,dest:dest,carrier:carrier,flight:flight,day:day,hour:hour,delay:delay"
+  );
+
+OK
+Time taken: 0.366 seconds
+
+hive> CREATE EXTERNAL TABLE s3_table_trips (
+   ampm STRING, 
+    origin STRING, 
+    dest STRING, 
+    carrier STRING, 
+    flight STRING,
+    day STRING,
+    hour INTEGER,
+    delay FLOAT ) 
+  ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+  LINES TERMINATED BY '\n' 
+  LOCATION "s3://tcolartransportation/results/2day_trip/" 
+  TBLPROPERTIES ("serialization.null.format"="");
+
+OK
+Time taken: 11.235 seconds
+
+hive> INSERT INTO TABLE ddb_tbl_trips select * from s3_table_trips;[hadoop@ip-172-30-4-37 ~]$ hive
+
+Logging initialized using configuration in file:/etc/hive/conf.dist/hive-log4j2.properties Async: false
+hive> INSERT INTO TABLE ddb_tbl_trips select * from s3_table_trips;
+WARNING: Configured write throughput of the dynamodb table trips is less than the cluster map capacity. ClusterMapCapacity: 10 WriteThroughput: 5
+WARNING: Writes to this table might result in a write outage on the table.
+Query ID = hadoop_20171128062206_b0a693bf-2fc7-46f7-bcd9-81712b72a670
+Total jobs = 1
+Launching Job 1 out of 1
+Status: Running (Executing on YARN cluster with App id application_1511846032774_0005)
+
+----------------------------------------------------------------------------------------------
+        VERTICES      MODE        STATUS  TOTAL  COMPLETED  RUNNING  PENDING  FAILED  KILLED
+----------------------------------------------------------------------------------------------
+Map 1            container       RUNNING      2          0        2        0       0       0
+----------------------------------------------------------------------------------------------
+VERTICES: 00/01  [>>--------------------------] 0%    ELAPSED TIME: 1346.41 s
+----------------------------------------------------------------------------------------------
